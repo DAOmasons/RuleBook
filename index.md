@@ -16,17 +16,17 @@ hero:
 
 features:
   - title: Pluralistic
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Pluralism is our primary design consideration. Nearly all of the coordination, creativity, and decision-making is left up to the individual Grant Ships.
   - title: Accountability
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Grant Ships are motivated to track and report grantee progress, while grantees are encouraged to show results and progress for additional future funding.
   - title: Voter Participation
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: This game is a spectator sport, designed to be fun to play and watch. This is necessary to ensure the ecosystem stays involved and provides the right incentives and signals.
   - title: Capture Resistance
-    details: lorem
+    details: The game breaks down the usual centralized grant-giving system, spreading authority and accountability across Grant Ships, Referees, and voters, ensuring mutual oversight.
   - title: Adaptive Approach
-    details: lorem
+    details: Through token-weighted voting, Arbitrum DAO creates the selective pressure that forces Grant Ships to evolve. As Arbitrum evolves, so will its grants program.
   - title: Progressive Decentralization
-    details: lorem
+    details: The game is designed to be self regulated and ran by Arbitrum DAO as the season progress.
 
 ---
 
