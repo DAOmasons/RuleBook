@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
   title: "Grant Ships Rule Book",
   description: "An Evolutionary Grants Game",
   themeConfig: {

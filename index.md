@@ -5,21 +5,28 @@ layout: home
 hero:
   name: "Grant Ships Rule Book"
   text: "An Evolutionary Grants Game"
-  tagline: My great project tagline
+  tagline: Rules of the Game
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: How To Play
+      link: /how-to-play/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: FAQs
+      link: /faqs/
 
 features:
-  - title: Feature A
+  - title: Pluralistic
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Accountability
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Voter Participation
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Capture Resistance
+    details: lorem
+  - title: Adaptive Approach
+    details: lorem
+  - title: Decentralized
+    details: lorem
+
 ---
 
