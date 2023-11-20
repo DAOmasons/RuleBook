@@ -14,10 +14,17 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'How To Play',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'As A Facilitator', link: '/markdown-examples' },
+          { text: 'As A Grantee', link: '/api-examples' }
+        ]
+      },
+      {
+        text: 'FAQs',
+        items: [
+          { text: 'Reasoning', link: '/markdown-examples' },
+          { text: 'Grant Ships FAQs', link: '/api-examples' }
         ]
       }
     ],

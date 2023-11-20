@@ -25,7 +25,7 @@ features:
     details: lorem
   - title: Adaptive Approach
     details: lorem
-  - title: Decentralized
+  - title: Progressive Decentralization
     details: lorem
 
 ---
