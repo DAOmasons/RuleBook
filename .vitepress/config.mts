@@ -25,12 +25,8 @@ export default defineConfig({
         ]
       },
       {
-        text: 'FAQs',
-        link: '/faqs/',
-        items: [
-          { text: 'Reasoning', link: '/faqs/reasoning' },
-          { text: 'Grant Ships FAQs', link: '/faqs/grantShipsFAQ' }
-        ]
+        text: 'FAQ',
+        link: '/faqs/grantShipsFAQ'
       },
       {
         text: 'Misc',
@@ -50,6 +46,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/daomasons' },
       { icon: 'x', link: 'https://twitter.com/grantships'}
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2023-present DAO Masons'
+    }
   }
 })
