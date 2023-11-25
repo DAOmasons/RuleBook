@@ -33,6 +33,7 @@ export default defineConfig({
         text: 'Misc',
         items: [
           { text: 'Whitepaper', link: 'whitepaper' },
+          { text: 'Team', link: 'team' },
           { text: 'Sample Tools', link: '/tools/',
             items: [
               { text: 'Sample Ship Designs', link: '/tools/sampleShips/',
