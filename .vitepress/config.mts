@@ -30,9 +30,17 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Whitepaper',
+        text: 'Misc',
         items: [
-          { text: 'Whitepaper', link: 'whitepaper' }
+          { text: 'Whitepaper', link: 'whitepaper' },
+          { text: 'Sample Tools', link: '/tools/',
+            items: [
+              { text: 'Sample Ship Designs', link: '/tools/sampleShips/',
+                items: [
+                  { text: 'DAOhaus Stack', link: '/tools/sampleShips/daohaus' }
+                ]}
+            
+          ]}
         ]
       }
       
