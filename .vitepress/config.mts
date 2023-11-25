@@ -28,7 +28,14 @@ export default defineConfig({
           { text: 'Reasoning', link: '/faqs/reasoning' },
           { text: 'Grant Ships FAQs', link: '/faqs/grantShipsFAQ' }
         ]
+      },
+      {
+        text: 'Whitepaper',
+        items: [
+          { text: 'Whitepaper', link: 'whitepaper' }
+        ]
       }
+      
     ],
 
     socialLinks: [
