@@ -1,3 +1,0 @@
-# Governance Index
-
-coming soon
