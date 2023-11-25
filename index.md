@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Grant Ships"
   text: "Rule Book"
-  tagline: An Evolutionary Grants Game
+  tagline: Game is under development! Everything on site is subject to change!
   actions:
     - theme: brand
       text: How To Play
