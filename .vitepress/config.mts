@@ -15,6 +15,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'How To Play',
+        link: '/how-to-play/',
         items: [
           { text: 'As A DAO Member', link: 'how-to-play/as-a-dao-mem' },
           { text: 'As A Grant Ship Operator', link: 'how-to-play/as-a-gs-op' },
@@ -24,6 +25,7 @@ export default defineConfig({
       },
       {
         text: 'FAQs',
+        link: '/faqs/',
         items: [
           { text: 'Reasoning', link: '/faqs/reasoning' },
           { text: 'Grant Ships FAQs', link: '/faqs/grantShipsFAQ' }
@@ -31,8 +33,10 @@ export default defineConfig({
       },
       {
         text: 'Misc',
+        link: '/misc/',
         items: [
-          { text: 'Whitepaper', link: 'whitepaper' },
+          { text: 'Team', link: '/misc/team' },
+          { text: 'Whitepaper', link: '/misc/whitepaper' },
           { text: 'Sample Tools', link: '/tools/',
             items: [
               { text: 'DAOhaus', link: '/tools/daohaus'},
@@ -43,7 +47,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/daomasons' },
+      { icon: 'x', link: 'https://twitter.com/grantships'}
     ]
   }
 })
