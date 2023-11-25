@@ -32,14 +32,11 @@ export default defineConfig({
       {
         text: 'Misc',
         items: [
+          { text: 'Our Team', link: 'team'},
           { text: 'Whitepaper', link: 'whitepaper' },
-          { text: 'Sample Tools', link: '/tools/',
+          { text: 'Sample Tools', link: '/tools/' ,
             items: [
-              { text: 'Sample Ship Designs', link: '/tools/sampleShips/',
-                items: [
-                  { text: 'DAOhaus Stack', link: '/tools/sampleShips/daohaus' }
-                ]}
-            
+              { text: 'DAOhaus', link: '/tools/daohaus' },         
           ]}
         ]
       }
