@@ -36,8 +36,9 @@ export default defineConfig({
           { text: 'Whitepaper', link: '/misc/whitepaper' },
           { text: 'Sample Tools', link: '/tools/',
             items: [
-              { text: 'DAOhaus', link: '/tools/daohaus'},
-              { text: 'Gitcoin Grant Stack', link: '/tools/grantStack'},
+              { text: 'DAOhaus', link: '/tools/daohaus' },
+              { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
+              { text: 'Jokerace', link: '/tools/jokerace' },
           ]}
         ]
       }

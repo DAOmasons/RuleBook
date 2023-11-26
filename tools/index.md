@@ -21,6 +21,15 @@ Gitcoin Grants Stack is a decentralized, smart contract-enabled solution for man
 
 While the Gitcoin Gtant STack is a relatively new product, Gitcoin Grants is time-tested trust in grant programs and  an innovative Quadratic Voting system. 
 
+### [Jokerace](/tools/jokerace)
+Jokerace offers a novel approach to community-driven funding, perfectly complementing the Grant Ship model. With its emphasis on decentralized, bottom-up governance, Jokerace enables community members to propose, vote on, and manage grant initiatives effectively. Discover how Jokerace revolutionizes funding processes and fosters a democratic and transparent environment within Grant Ships.
+
+- **Key Features**: Transparent Voting, Community Rewards
+- **Integration**: Seamless integration with Grant Ships, offering multi-chain support and community-driven allocation
+- **Get Started**: Easy steps for proposal submission, community voting, and tracking project progress
+
+Explore more about how Jokerace can transform your Grant Ship experience.
+
 ## Choosing the Right Tools
 
 We encourage you to explore and experiment with these tools to determine what best aligns with your ship's operations and goals. The diversity in tool usage among ships is a valuable aspect of the Grant Ships ecosystem, fostering innovation and adaptation.
