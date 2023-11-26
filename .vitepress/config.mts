@@ -7,7 +7,7 @@ export default defineConfig({
   description: "An Evolutionary Grants Game",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/rocketgrad.svg',
+    logo: '/rocketgrad3.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'How To Play', link: '/how-to-play/' }
