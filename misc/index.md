@@ -1,6 +1,6 @@
 # Misc Category: Diverse Resources for Our Community
 
-Welcome to the "Misc Category" - a collection of various essential resources that provide deeper insights into our project and tools. Here, you'll find everything from detailed documentation to helpful tools, each playing a vital role in our ecosystem.
+The "Misc Category" is a collection of various essential resources that provide deeper insights into our project and tools. Here, you'll find everything from detailed documentation to helpful tools, each playing a vital role in our ecosystem.
 
 ## Content Overview
 
@@ -12,8 +12,12 @@ Dive deep into the foundational concepts, goals, and methodologies of our projec
 
 ### [Sample Tools](/tools/)
 A handpicked selection of tools beneficial for Grant Ship Operators, aiding in their unique missions within our ecosystem.
+
 - **[DAOhaus](/tools/daohaus)**: Explore this platform tailored for decentralized autonomous organizations, enhancing proposal management and member voting.
 - **[Gitcoin Grants Stack](/misc/tools/gitcoin-grants-stack)**: Discover how this decentralized, smart contract-enabled solution can streamline the management of grant programs.
+- **[Jokerace](/tools/jokerace)**: Understand how Jokerace's approach to community-driven funding can enhance governance in Grant Ships.
+- **[Snapshot](/tools/snapshot)**: Learn about Snapshot’s off-chain voting platform, offering gasless and customizable governance solutions, perfect for Grant Ships.
+
 
 ## Conclusion
 

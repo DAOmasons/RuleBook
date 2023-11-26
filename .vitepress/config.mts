@@ -39,6 +39,7 @@ export default defineConfig({
               { text: 'DAOhaus', link: '/tools/daohaus' },
               { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
               { text: 'Jokerace', link: '/tools/jokerace' },
+              { text: 'Snapshot', link: '/tools/snapshot' },
           ]}
         ]
       }

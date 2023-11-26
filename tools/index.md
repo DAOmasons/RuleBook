@@ -1,6 +1,6 @@
 # Sample Tools for Grant Ship Operators
 
-Welcome to the "Sample Tools" section, a curated list of tools designed to aid Grant Ship Operators in their unique missions. Here, we provide insights into various tools that might enhance the efficiency and effectiveness of your operations. Remember, each Grant Ship is different, and what works for one may not work for another. Part of the Grant Ships experience is discovering which tools best suit your needs.
+The "Sample Tools" section is a list of tools curated to aid Grant Ship Operators in their unique missions. Here, we provide insights into various tools that might enhance the efficiency and effectiveness of your operations. Remember, each Grant Ship is different, and what works for one may not work for another. Part of the Grant Ships experience is discovering which tools best suit your needs.
 
 For a more comprehensive list of tools availble to DAO's, please check out the repo of [Awesome DAO](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) tools.
 
@@ -29,6 +29,15 @@ Jokerace offers a novel approach to community-driven funding, perfectly compleme
 - **Get Started**: Easy steps for proposal submission, community voting, and tracking project progress
 
 Explore more about how Jokerace can transform your Grant Ship experience.
+
+### [Snapshot](/tools/snapshot)
+Snapshot is an off-chain voting platform that brings gasless and customizable governance to Grant Ships. While it enhances accessibility and offers diverse voting systems, it's important to consider the implications of off-chain voting and the technical skills required for custom strategy creation. Key aspects include:
+- Gasless voting mechanisms, with the trade-off of lacking on-chain immutability
+- A variety of voting systems that can be tailored, requiring some coding skills for customization
+- Secure validation processes for proposals and voting
+
+Explore how Snapshot could fit into your Grant Ship's governance model, balancing its advantages with its unique considerations.
+
 
 ## Choosing the Right Tools
 
