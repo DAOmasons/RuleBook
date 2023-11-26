@@ -35,3 +35,11 @@ The use of DAOhaus in Grant Ships could unfold as follows:
 - **Sponsorship Dependency**: Proposals require sponsorship from a ship member, which could create bottlenecks.
 
 DAOhaus presents a unique and powerful tool for Grant Ship governance, blending traditional and innovative governance models. Its effectiveness, however, will largely depend on the specific dynamics and needs of each Grant Ship.
+
+
+## Links
+
+- [Website](https://daohaus.club/)
+- [Admin App](https://admin.daohaus.club/)
+- [Summoners App](https://summon.daohaus.club/)
+- [Docs](https://docs.daohaus.club/)

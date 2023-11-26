@@ -13,6 +13,14 @@ DAOhaus is a powerful platform for decentralized autonomous organizations (DAOs)
 
 Operators can leverage DAOhaus to streamline decision-making processes.
 
+### [Gitcoin Grants Stack](/tools/grantStack)
+Gitcoin Grants Stack is a decentralized, smart contract-enabled solution for managing grants programs. Key aspects include:
+- Manager: For creating and managing grant programs
+- Explorer: To discover and support projects
+- Builder: Allows project owners to create profiles and manage applications.
+
+While the Gitcoin Gtant STack is a relatively new product, Gitcoin Grants is time-tested trust in grant programs and  an innovative Quadratic Voting system. 
+
 ## Choosing the Right Tools
 
 We encourage you to explore and experiment with these tools to determine what best aligns with your ship's operations and goals. The diversity in tool usage among ships is a valuable aspect of the Grant Ships ecosystem, fostering innovation and adaptation.
