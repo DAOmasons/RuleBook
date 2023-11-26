@@ -15,7 +15,7 @@ hero:
       link: /how-to-play/
     - theme: alt
       text: FAQs
-      link: /faqs/
+      link: /faqs/grantShipsFAQ
 
 features:
   - title: Pluralistic Desisgn

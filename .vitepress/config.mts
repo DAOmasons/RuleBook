@@ -18,10 +18,10 @@ export default defineConfig({
         text: 'How To Play',
         link: '/how-to-play/',
         items: [
-          { text: 'As A DAO Member', link: 'how-to-play/as-a-dao-mem' },
-          { text: 'As A Grant Ship Operator', link: 'how-to-play/as-a-gs-op' },
-          { text: 'As A Grantee', link: 'how-to-play/as-a-grantee' },
-          { text: 'As A Facilitator', link: 'how-to-play/as-a-faci' }
+          { text: 'Delegated Arbitrum Voters', link: 'how-to-play/as-a-dao-mem' },
+          { text: 'Grant Ship Operators', link: 'how-to-play/as-a-gs-op' },
+          { text: 'Grantees', link: 'how-to-play/as-a-grantee' },
+          { text: 'Game Facilitators', link: 'how-to-play/as-a-faci' }
         ]
       },
       {

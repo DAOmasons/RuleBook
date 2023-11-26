@@ -1,29 +1,37 @@
-# DAOhaus
+# DAOhaus: A Tool for Grant Ship Governance
 
-## History
+DAOhaus serves as the primary user interface for the moloch DAO contracts, a cornerstone in the realm of grant communities. This platform has a storied history, beginning with its adoption by Meta Cartel, which revolutionized grant funding through membership fee redistribution. 
 
-DAOhaus is the primary UI for the moloch DAO contracts. Moloch has long been a favorite for grant communities. Shortly after the deployment of the moloch DAO contracts, Meta Cartel forked the code and began deploying grant funding through membership fee redistribution. This model still works and Meta Cartel is still awarding grants.
+## DAOhaus in Context
 
-The governance for Meta Cartel is now handled in the DAOhaus UI, after Meta Cartel migrated to v2 of the moloch contracts. This model aslso requires a fair amount of off chain governance and decision making before grant proposal are put on chain for the DAO to consider. So this model must include governance forums, usually handle through either Discord or Discourse. CHarmverse offers a nice option here is awell.
+The governance of Meta Cartel, after migrating to v2 of the moloch contracts, is now managed through the DAOhaus UI. This method combines on-chain decision-making with essential off-chain governance, typically conducted via platforms like Discord or Discourse.
 
-This has long been a popular model for grant allocation.
+This model has gained popularity due to its effectiveness in grant allocation. However, in the context of Grant Ships, where direct funding is managed through a separate interface, DAOhaus's role pivots to facilitating other governance aspects.
 
-While the direct funding options will not be available in Grant Ships, as all funding is handled though a seperate interface, other governance options are certainly useful.
+## Application in Grant Ships
 
-The way it could work is as follows:
+The use of DAOhaus in Grant Ships could unfold as follows:
 
-- A grantee places a log form proposal on the ships forum.
-- DAO will read proposal. After some discussion, a decision will be made wheather or not the proposal should go on chain.
-- If approved to move to the next step, the grantee may place the proposal on chain.
-- It will then be up to a Grant Ship member to sponser the proposal.
-- After the proposal is sponsered, it will go to a vote.
-- If the vote is in favour, the ship will present a funding request against their allocation pool.
-- If everything is acceptable the funds will be distributed,
+1. A grantee submits a detailed proposal on the ship's forum.
+2. DAO members review the proposal and discuss it off-chain.
+3. A decision is made on whether to move the proposal on-chain.
+4. If approved, a Grant Ship member sponsors the proposal.
+5. The proposal goes to a vote.
+6. If successful, a funding request is presented against the allocation pool.
+7. Upon approval, funds are distributed accordingly.
 
-## Pros of using DAOhaus for Ship Design
+## Pros of Using DAOhaus for Ship Design
 
-- [ ] TODO
+- **Enhanced Governance**: DAOhaus facilitates a structured, democratic decision-making process.
+- **Community Engagement**: Encourages active participation and discussion among ship members.
+- **Transparency**: On-chain voting ensures a transparent and accountable governance mechanism.
+- **Flexibility**: Integrates both on-chain and off-chain elements, allowing for a hybrid governance model.
 
 ## Cons of Using DAOhaus for Ship Designs
 
-- [ ] TODO
+- **Complexity**: May present a learning curve for members unfamiliar with DAO or blockchain governance.
+- **Limited Direct Funding Control**: As funding is handled externally, DAOhaus's role in financial decisions is restricted.
+- **Dependence on Off-Chain Platforms**: Relies on external communication tools for off-chain governance, which could fragment the decision-making process.
+- **Sponsorship Dependency**: Proposals require sponsorship from a ship member, which could create bottlenecks.
+
+DAOhaus presents a unique and powerful tool for Grant Ship governance, blending traditional and innovative governance models. Its effectiveness, however, will largely depend on the specific dynamics and needs of each Grant Ship.
