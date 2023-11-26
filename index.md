@@ -7,7 +7,7 @@ hero:
   text: "Rule Book"
   tagline: Under Development! Everything Subject to change!
   image:
-    src: /rocketgrad.svg
+    src: /rocketgrad3.svg
     alt: GrantShips
   actions:
     - theme: brand
