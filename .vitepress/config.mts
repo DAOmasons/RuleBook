@@ -34,7 +34,7 @@ export default defineConfig({
         items: [
           { text: 'Team', link: '/misc/team' },
           { text: 'Whitepaper', link: '/misc/whitepaper' },
-          { text: 'Sample Tools', link: 'misc/tools/',
+          { text: 'Sample Tools', link: 'misc/tools/index',
             items: [
               { text: 'DAOhaus', link: 'misc/tools/daohaus'},
               { text: 'Gitcoin Grant Stack', link: 'misc/tools/grantStack'},
