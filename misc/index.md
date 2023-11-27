@@ -10,7 +10,7 @@ Get to know the brilliant minds behind our project. Our team page offers insight
 ### [Whitepaper](/misc/whitepaper)
 Dive deep into the foundational concepts, goals, and methodologies of our project. The whitepaper is a must-read for anyone seeking a thorough understanding of our vision and strategies.
 
-### [Sample Tools](/misc/tools/)
+### [Sample Tools](/misc/tools/index)
 A handpicked selection of tools beneficial for Grant Ship Operators, aiding in their unique missions within our ecosystem.
 - **[DAOhaus](/misc/tools/daohaus)**: Explore this platform tailored for decentralized autonomous organizations, enhancing proposal management and member voting.
 - **[Gitcoin Grants Stack](/misc/tools/grantStack)**: Discover how this decentralized, smart contract-enabled solution can streamline the management of grant programs.
