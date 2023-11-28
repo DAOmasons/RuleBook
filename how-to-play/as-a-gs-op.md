@@ -1,5 +1,7 @@
 # How To Play As A Grant Ship Operator
 
+![](/public/operator.png)
+
 If you or your team have been selected to operate a Grant Ship, congratulations!
 
 Your primary responsibility is to be a good steward of the funds you are entrusted with.

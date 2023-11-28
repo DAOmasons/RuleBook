@@ -14,6 +14,7 @@ Dive deep into the foundational concepts, goals, and methodologies of our projec
 A handpicked selection of tools beneficial for Grant Ship Operators, aiding in their unique missions within our ecosystem.
 - **[DAOhaus](/tools/daohaus)**: Explore this platform tailored for decentralized autonomous organizations, enhancing proposal management and member voting.
 - **[Gitcoin Grants Stack](/tools/grantStack)**: Discover how this decentralized, smart contract-enabled solution can streamline the management of grant programs.
+-  **[Jokerace](/tools/jokerace)**: Learn about how your Ship can use jokerace to create token curated voting.
 
 ## Conclusion
 
