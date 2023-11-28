@@ -9,9 +9,6 @@ Jokerace's on-chain governance model is an ideal fit for Grant Ships. Community 
 ### Community-Driven Allocation
 In the Jokerace ecosystem, grant allocations are determined by the community rather than a centralized authority. This democratic approach resonates with the ethos of decentralized governance.
 
-### Multi-Chain Support
-Embracing a multi-chain environment, Jokerace facilitates the deployment of Grant Ships across various EVM-compatible chains, enhancing accessibility and participation.
-
 ## Features of Jokerace's Grant Ship
 
 ### Transparent Voting
