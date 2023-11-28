@@ -10,10 +10,15 @@ export default defineConfig({
     logo: '/rocketgrad3.svg',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'About', link: '/misc/about' },
       { text: 'How To Play', link: '/how-to-play/' }
     ],
 
     sidebar: [
+      {
+        text:'About Grant Ships',
+        link: '/misc/about'
+       },
       {
         text: 'How To Play',
         link: '/how-to-play/',
