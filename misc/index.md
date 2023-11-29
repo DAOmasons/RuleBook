@@ -7,11 +7,18 @@ Welcome to the "Misc Category" - a collection of various essential resources tha
 ### [Team Page](/misc/team)
 Get to know the brilliant minds behind our project. Our team page offers insights into the experience and expertise that drive our initiative forward.
 
+### [Grant Ships Links](/misc/links)
+Find all the important links for Grant Ships
+
 ### [Whitepaper](/misc/whitepaper)
 Dive deep into the foundational concepts, goals, and methodologies of our project. The whitepaper is a must-read for anyone seeking a thorough understanding of our vision and strategies.
 
+### [Compliance](/misc/compliance)
+Compliance document for Grant Ships guiding the integrity and ethical guideline of Grant Ships.
+
 ### [Sample Tools](/tools/)
 A handpicked selection of tools beneficial for Grant Ship Operators, aiding in their unique missions within our ecosystem.
+
 - **[DAOhaus](/tools/daohaus)**: Explore this platform tailored for decentralized autonomous organizations, enhancing proposal management and member voting.
 - **[Gitcoin Grants Stack](/tools/grantStack)**: Discover how this decentralized, smart contract-enabled solution can streamline the management of grant programs.
 -  **[Jokerace](/tools/jokerace)**: Learn about how your Ship can use jokerace to create token curated voting.
