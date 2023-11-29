@@ -38,7 +38,9 @@ export default defineConfig({
         link: '/misc/',
         items: [
           { text: 'Team', link: '/misc/team' },
+          { text: 'Grant Ships Links', link: '/misc/links' },
           { text: 'Whitepaper', link: '/misc/whitepaper' },
+          { text: 'Compliance Policy', link: '/misc/compliance' },
           { text: 'Sample Tools', link: '/tools/',
             items: [
               { text: 'DAOhaus', link: '/tools/daohaus' },
