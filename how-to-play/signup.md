@@ -4,6 +4,5 @@ Use this form to express an interest in  participating in the beta round of Gran
 
 Please fill out this form and we will get back to you as soon as we can.
 
-<iframe data-tally-src="https://tally.so/embed/wLPkGy?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" title="Registration form"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7YnEjyIdiNPP-tARFXh9TmXxqebpvqhUqsXHWXYPuozIlTw/viewform?embedded=true" width="640" height="3847" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
