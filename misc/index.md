@@ -16,13 +16,6 @@ Dive deep into the foundational concepts, goals, and methodologies of our projec
 ### [Compliance](/misc/compliance)
 Compliance document for Grant Ships guiding the integrity and ethical guideline of Grant Ships.
 
-### [Sample Tools](/tools/)
-A handpicked selection of tools beneficial for Grant Ship Operators, aiding in their unique missions within our ecosystem.
-
-- **[DAOhaus](/tools/daohaus)**: Explore this platform tailored for decentralized autonomous organizations, enhancing proposal management and member voting.
-- **[Gitcoin Grants Stack](/tools/grantStack)**: Discover how this decentralized, smart contract-enabled solution can streamline the management of grant programs.
--  **[Jokerace](/tools/jokerace)**: Learn about how your Ship can use jokerace to create token curated voting.
-
 ## Conclusion
 
 We encourage you to explore each section in this category. Whether you're looking to understand our team's background, delve into our project's core principles, or find the right tools for your needs, the Misc Category is here to assist you. Your journey through these diverse resources will provide a comprehensive understanding of our project and its community.
