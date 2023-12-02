@@ -5,7 +5,8 @@
 **Effective Date: [To be determined upon ratification]**  
 
 ## Table of Contents
- [TOC]
+
+ [[toc]]
 
 ## 1. Introduction  
   
