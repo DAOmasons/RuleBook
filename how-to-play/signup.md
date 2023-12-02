@@ -4,4 +4,3 @@ Use this form to express an interest in  participating in the beta round of Gran
 
 Please fill out this form and we will get back to you as soon as we can.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7YnEjyIdiNPP-tARFXh9TmXxqebpvqhUqsXHWXYPuozIlTw/viewform?embedded=true" width="640" height="3847" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
