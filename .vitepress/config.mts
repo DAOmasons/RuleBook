@@ -27,7 +27,7 @@ export default defineConfig({
           { text: 'Grant Ship Operators', link: 'how-to-play/as-a-gs-op' },
           { text: 'Grantees', link: 'how-to-play/as-a-grantee' },
           { text: 'Game Facilitators', link: 'how-to-play/as-a-faci' },
-          { text: 'Sign Up', link: 'how-to-play/signup' },
+          { text: 'Sign Up', link: 'https://forms.grantships.fun' },
         ]
       },
       {

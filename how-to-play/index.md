@@ -27,9 +27,6 @@ Learn about your stewardship over the funds and the grant-giving process. You'll
 - Managing grant recipient details
 - Ensuring progress disclosure
 
-### [Sign Up](/how-to-play/signup)
-Fill out our sign up form to express your interest in particpating in the beta round. Spots are limited.
-
 ## Conclusion
 
 Dive into each section to fully understand your role and how you can contribute to our community's success. Your participation and understanding are key to the thriving of our innovative ecosystem.
