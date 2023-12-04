@@ -11,30 +11,30 @@ import {
 } from "./chunk-WODCYZ5Q.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default3 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default4 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default5 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default6 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default7 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default8 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default9 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default10 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default11 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default12 } from "/media/boilerrat/Jerry/Rule-book/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default3 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default4 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default5 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default6 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default7 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default8 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default9 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default10 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import { default as default11 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default12 } from "/Users/ui369/Workspace/Code/daomasons/RuleBook/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
 
 // node_modules/@vueuse/shared/index.mjs
 function tryOnScopeDispose(fn) {

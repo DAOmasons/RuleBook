@@ -41,39 +41,29 @@ This section describes the basic flow of the game. The rest of the document will
 
 The game begins during the Season 1 pre-season. During this time initial facilitators and ships will be formed. A call will go out to fill these positions, with final decision on team formation being decided via DAO governance.
 
-Potential ship operators will be given opptunity to make their case as to why they will be able to effectively provide impactful grant distribution. Winning ship operators will be given the opportunity to design a grant program of their own, using tools of their choice.
+Potential ship operators will be given opportunity to make their case as to why they will be able to effectively provide impactful grant distribution. Winning ship operators will be given the opportunity to design a grant program of their own, using tools of their choice.
 
 When the season begins, the total amount allocated to Grant Ships will be evenly distributed to each Ships allocation pool. These funds will remain in the pool until grants are awarded.
 
 As Ships start awarding grants, the ships operators will enter recipients metadata and funding total on chain. Facilitators will then review the funding request as a final security check before calling the distribute function, which will distribute the requested funds from the ships allocation pool.
 
-As facilitators are so closely involved in the final distribution of funds, they are able to see if there are any problems during funding distributions. If there are minor problems the facilitators may issue warnings, which are correctable errors and shoild not effect the Grant Ships impact scores.
+As facilitators are so closely involved in the final distribution of funds, they are able to see if there are any problems during funding distributions. If there are minor problems the facilitators may issue warnings, which are correctable errors and should not effect the Grant Ships impact scores.
 
-If there are numerous problems or problems so egracious that the facilitator feels funding for the ship should be stopped, the facilitator may issue a red card. If they do so, they will pause calling reject all further funding requests from the pool.
+If there are numerous problems or problems so egregious that the facilitator feels funding for the ship should be stopped, the facilitator may issue a red card. If they do so, they will pause calling reject all further funding requests from the pool.
 
-The facilitatrs will then call an emergency vote, in which they will present all available evidence as to why all further allocations to the pool are to end and the ships right to distribute grants is revoked.
+The facilitators will then call an emergency vote, in which case they will present all available evidence as to why all further allocations to the pool are to end and the ship's right to distribute grants is revoked.
 
-```txt
-__ _        _       _           
-/ _| | _____| |_ ___| |__  _   _ 
-\ \| |/ / _ | __/ __| '_ \| | | |
-_\ |   |  __| || (__| | | | |_| |
-\__|_|\_\___|\__\___|_| |_|\__, |
-                           |___/ 
+Upon distribution of funds, the Grant Ship operators will receive an onchain attestation clarifying the transaction. At the end of the season the DAO will be given the opportunity to take part in an Impact signalling session in which the DAO will apply impact scores on each grant awarded during the season. These scores will be added to the metadata of the issued attestation.
 
-```
+Once all of the impact is tallied, an impact per dollar awarded score will be established for each ship. The facilitators will then use this score and prepare a report for the DAO to consider the performance of each Ship in relation to impact.
 
-Upon distribution of funds, the grant ship operators will then issue a hypercert to themselves and to the project. At the end of the season the DAO will be given the opptunity to take part in an Impact signalling session in which the DAO will apply impact scores on each grant awarded during the season. These scores will be added to the metadata of the issued hypercerts.
+During the next season, as ship funding allocation is being considered, the allocations will favour the ships that have provided the most impact. Very low impact scores could even result in a total reduction of funding and thereby consider the ship out of service. This can either open the door for new operators to take over the ship or for an entirely new ship to form and start building their own reputation.
 
-Once all of the impact is tallied an impact per dollar awarded score will be established for each ship. The facilitators will then use this score and prepare a report for the DAO to consider the performance of each Ship in relation to impact.
-
-During the next season, as ship funding allocation is being considered, the allocations should favour the ships that have provided the most impact. Very low impact scores could even result in a total reduction of funding and thereby consider the ship out of service. This can either open the door for new operators to take over the ship or for an entirely new ship to form and start building their own reputation.
-
-It may also be the case (and in fact ideally will be the case) that new ships are formed. higher performing ships may end up with a lower allocation than previous seasons if this is the case. What is important, is that ship will recieve a higher percentage of available funding for all of the ships.
+It may also be the case (and in fact ideally will be the case) that new ships are formed. Higher performing ships may end up with a lower allocation than previous seasons if this is the case. What is important, is that ship will receive a higher percentage of available funding for all of the ships.
 
 ## Tools
 
-The following are the tools used to integrate with the game and the reason we use them. The Grant Ships front end
+The following are the tools used to integrate with the game and the reason we use them. The Grant
 
 ### Allo Protocol
 
@@ -85,15 +75,15 @@ The following are the tools used to integrate with the game and the reason we us
 
 ## Players
 
-The game involves multiple actors including Delegated Arbitrum Voters, Game Facilitators, Grant Ships, and Grant Recipients. Each actor plays a unique role.
+The game involves multiple actors including Delegated Arbitrum Voters, Grant Ships, and Grant Recipients and Game Facilitators. Each actor plays a unique role.
 
 ### Delegated Arbitrum Voters
 
 - Vote to elect Grant Ship Facilitators
 - Vote to elect Grant Ship Operators
 - Take part in Impact Signals
-- Votes on distribution proposals prepared by facilatators.
-  
+- Votes on distribution proposals prepared by facilitators.
+
 ### Game Facilitators
 
 - Create an Allo Profile
@@ -103,7 +93,7 @@ The game involves multiple actors including Delegated Arbitrum Voters, Game Faci
 - Reviews milestone metadata, can reject a milestone by calling `_rejectMilestone`
 - Distributes funds, in sequence by calling `distribute()`, which calls `_distribute`
 - `distribute()` sends funds to the ship
-**need to get it to the project not the ship**
+  **need to get it to the project not the ship**
 - Issues Yellow Cards
 - Issue Red Cards
 - Prepares Season End Report
