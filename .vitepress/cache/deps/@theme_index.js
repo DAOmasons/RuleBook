@@ -7,7 +7,7 @@ import {
   ref,
   unref,
   watch,
-  watchEffect
+  watchEffect,
 } from "./chunk-WODCYZ5Q.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
@@ -48,11 +48,19 @@ function toValue(r) {
   return typeof r === "function" ? r() : unref(r);
 }
 var isClient = typeof window !== "undefined" && typeof document !== "undefined";
-var isWorker = typeof WorkerGlobalScope !== "undefined" && globalThis instanceof WorkerGlobalScope;
+var isWorker =
+  typeof WorkerGlobalScope !== "undefined" &&
+  globalThis instanceof WorkerGlobalScope;
 var isIOS = getIsIOS();
 function getIsIOS() {
   var _a;
-  return isClient && ((_a = window == null ? void 0 : window.navigator) == null ? void 0 : _a.userAgent) && /iP(ad|hone|od)/.test(window.navigator.userAgent);
+  return (
+    isClient &&
+    ((_a = window == null ? void 0 : window.navigator) == null
+      ? void 0
+      : _a.userAgent) &&
+    /iP(ad|hone|od)/.test(window.navigator.userAgent)
+  );
 }
 function cacheStringFunction(fn) {
   const cache = /* @__PURE__ */ Object.create(null);
@@ -62,10 +70,12 @@ function cacheStringFunction(fn) {
   };
 }
 var hyphenateRE = /\B([A-Z])/g;
-var hyphenate = cacheStringFunction((str) => str.replace(hyphenateRE, "-$1").toLowerCase());
+var hyphenate = cacheStringFunction((str) =>
+  str.replace(hyphenateRE, "-$1").toLowerCase()
+);
 var camelizeRE = /-(\w)/g;
 var camelize = cacheStringFunction((str) => {
-  return str.replace(camelizeRE, (_, c) => c ? c.toUpperCase() : "");
+  return str.replace(camelizeRE, (_, c) => (c ? c.toUpperCase() : ""));
 });
 function identity(arg) {
   return arg;
@@ -94,29 +104,30 @@ function useSupported(callback) {
 }
 function useMediaQuery(query, options = {}) {
   const { window: window2 = defaultWindow } = options;
-  const isSupported = useSupported(() => window2 && "matchMedia" in window2 && typeof window2.matchMedia === "function");
+  const isSupported = useSupported(
+    () =>
+      window2 &&
+      "matchMedia" in window2 &&
+      typeof window2.matchMedia === "function"
+  );
   let mediaQuery;
   const matches = ref(false);
   const handler = (event) => {
     matches.value = event.matches;
   };
   const cleanup = () => {
-    if (!mediaQuery)
-      return;
+    if (!mediaQuery) return;
     if ("removeEventListener" in mediaQuery)
       mediaQuery.removeEventListener("change", handler);
-    else
-      mediaQuery.removeListener(handler);
+    else mediaQuery.removeListener(handler);
   };
   const stopWatch = watchEffect(() => {
-    if (!isSupported.value)
-      return;
+    if (!isSupported.value) return;
     cleanup();
     mediaQuery = window2.matchMedia(toValue(query));
     if ("addEventListener" in mediaQuery)
       mediaQuery.addEventListener("change", handler);
-    else
-      mediaQuery.addListener(handler);
+    else mediaQuery.addListener(handler);
     matches.value = mediaQuery.matches;
   });
   tryOnScopeDispose(() => {
@@ -126,12 +137,20 @@ function useMediaQuery(query, options = {}) {
   });
   return matches;
 }
-var _global = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
+var _global =
+  typeof globalThis !== "undefined"
+    ? globalThis
+    : typeof window !== "undefined"
+    ? window
+    : typeof global !== "undefined"
+    ? global
+    : typeof self !== "undefined"
+    ? self
+    : {};
 var globalKey = "__vueuse_ssr_handlers__";
 var handlers = getHandlers();
 function getHandlers() {
-  if (!(globalKey in _global))
-    _global[globalKey] = _global[globalKey] || {};
+  if (!(globalKey in _global)) _global[globalKey] = _global[globalKey] || {};
   return _global[globalKey];
 }
 var defaultState = {
@@ -144,7 +163,7 @@ var defaultState = {
   width: 0,
   height: 0,
   twist: 0,
-  pointerType: null
+  pointerType: null,
 };
 var keys = Object.keys(defaultState);
 var DEFAULT_UNITS = [
@@ -154,7 +173,7 @@ var DEFAULT_UNITS = [
   { max: 5184e5, value: 864e5, name: "day" },
   { max: 24192e5, value: 6048e5, name: "week" },
   { max: 28512e6, value: 2592e6, name: "month" },
-  { max: Number.POSITIVE_INFINITY, value: 31536e6, name: "year" }
+  { max: Number.POSITIVE_INFINITY, value: 31536e6, name: "year" },
 ];
 var _TransitionPresets = {
   easeInSine: [0.12, 0, 0.39, 0],
@@ -180,9 +199,13 @@ var _TransitionPresets = {
   easeInOutCirc: [0.85, 0, 0.15, 1],
   easeInBack: [0.36, 0, 0.66, -0.56],
   easeOutBack: [0.34, 1.56, 0.64, 1],
-  easeInOutBack: [0.68, -0.6, 0.32, 1.6]
+  easeInOutBack: [0.68, -0.6, 0.32, 1.6],
 };
-var TransitionPresets = Object.assign({}, { linear: identity }, _TransitionPresets);
+var TransitionPresets = Object.assign(
+  {},
+  { linear: identity },
+  _TransitionPresets
+);
 
 // node_modules/vitepress/dist/client/shared.js
 var inBrowser = typeof document !== "undefined";
@@ -201,18 +224,20 @@ function ensureStartingSlash(path) {
 
 // node_modules/vitepress/dist/client/theme-default/support/sidebar.js
 function getSidebar(_sidebar, path) {
-  if (Array.isArray(_sidebar))
-    return addBase(_sidebar);
-  if (_sidebar == null)
-    return [];
+  if (Array.isArray(_sidebar)) return addBase(_sidebar);
+  if (_sidebar == null) return [];
   path = ensureStartingSlash(path);
-  const dir = Object.keys(_sidebar).sort((a, b) => {
-    return b.split("/").length - a.split("/").length;
-  }).find((dir2) => {
-    return path.startsWith(ensureStartingSlash(dir2));
-  });
+  const dir = Object.keys(_sidebar)
+    .sort((a, b) => {
+      return b.split("/").length - a.split("/").length;
+    })
+    .find((dir2) => {
+      return path.startsWith(ensureStartingSlash(dir2));
+    });
   const sidebar = dir ? _sidebar[dir] : [];
-  return Array.isArray(sidebar) ? addBase(sidebar) : addBase(sidebar.items, sidebar.base);
+  return Array.isArray(sidebar)
+    ? addBase(sidebar)
+    : addBase(sidebar.items, sidebar.base);
 }
 function getSidebarGroups(sidebar) {
   const groups = [];
@@ -234,10 +259,8 @@ function addBase(items, _base) {
   return [...items].map((_item) => {
     const item = { ..._item };
     const base = item.base || _base;
-    if (base && item.link)
-      item.link = base + item.link;
-    if (item.items)
-      item.items = addBase(item.items, base);
+    if (base && item.link) item.link = base + item.link;
+    if (item.items) item.items = addBase(item.items, base);
     return item;
   });
 }
@@ -258,18 +281,22 @@ function useSidebar() {
       sidebar.value = _sidebar.value;
   });
   const hasSidebar = computed(() => {
-    return frontmatter.value.sidebar !== false && sidebar.value.length > 0 && frontmatter.value.layout !== "home";
+    return (
+      frontmatter.value.sidebar !== false &&
+      sidebar.value.length > 0 &&
+      frontmatter.value.layout !== "home"
+    );
   });
   const leftAside = computed(() => {
     if (hasAside)
-      return frontmatter.value.aside == null ? theme2.value.aside === "left" : frontmatter.value.aside === "left";
+      return frontmatter.value.aside == null
+        ? theme2.value.aside === "left"
+        : frontmatter.value.aside === "left";
     return false;
   });
   const hasAside = computed(() => {
-    if (frontmatter.value.layout === "home")
-      return false;
-    if (frontmatter.value.aside != null)
-      return !!frontmatter.value.aside;
+    if (frontmatter.value.layout === "home") return false;
+    if (frontmatter.value.aside != null) return !!frontmatter.value.aside;
     return theme2.value.aside !== false;
   });
   const isSidebarEnabled = computed(() => hasSidebar.value && is960.value);
@@ -295,7 +322,7 @@ function useSidebar() {
     isSidebarEnabled,
     open,
     close,
-    toggle
+    toggle,
   };
 }
 var hashRef = ref(inBrowser ? location.hash : "");
@@ -310,7 +337,7 @@ var theme = {
   Layout,
   enhanceApp: ({ app }) => {
     app.component("Badge", VPBadge);
-  }
+  },
 };
 var without_fonts_default = theme;
 export {
@@ -326,6 +353,6 @@ export {
   default11 as VPTeamPageSection,
   default10 as VPTeamPageTitle,
   without_fonts_default as default,
-  useSidebar
+  useSidebar,
 };
 //# sourceMappingURL=@theme_index.js.map

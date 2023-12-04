@@ -26,7 +26,8 @@ export default defineConfig({
           { text: 'Delegated Arbitrum Voters', link: 'how-to-play/as-a-dao-mem' },
           { text: 'Grant Ship Operators', link: 'how-to-play/as-a-gs-op' },
           { text: 'Grantees', link: 'how-to-play/as-a-grantee' },
-          { text: 'Game Facilitators', link: 'how-to-play/as-a-faci' }
+          { text: 'Game Facilitators', link: 'how-to-play/as-a-faci' },
+          { text: 'Sign Up', link: 'https://forms.grantships.fun' },
         ]
       },
       {
@@ -41,12 +42,15 @@ export default defineConfig({
           { text: 'Grant Ships Links', link: '/misc/links' },
           { text: 'Whitepaper', link: '/misc/whitepaper' },
           { text: 'Compliance Policy', link: '/misc/compliance' },
-          { text: 'Sample Tools', link: '/tools/',
-            items: [
-              { text: 'DAOhaus', link: '/tools/daohaus' },
-              { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
-              { text: 'Jokerace', link: 'tools/jokerace' },
-          ]}
+        ]
+      },
+      {
+        text: 'Sample Tools',
+        link: '/tools/',
+        items: [
+          { text: 'DAOhaus', link: '/tools/daohaus' },
+          { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
+          { text: 'Jokerace', link: 'tools/jokerace' },          
         ]
       }    
     ],
