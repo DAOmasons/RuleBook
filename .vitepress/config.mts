@@ -40,7 +40,6 @@ export default defineConfig({
         items: [
           { text: 'Team', link: '/misc/team' },
           { text: 'Grant Ships Links', link: '/misc/links' },
-          { text: 'Whitepaper', link: '/misc/whitepaper' },
           { text: 'Compliance Policy', link: '/misc/compliance' },
         ]
       },
@@ -52,7 +51,15 @@ export default defineConfig({
           { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
           { text: 'Jokerace', link: 'tools/jokerace' },          
         ]
-      }    
+      },
+      {
+        text: 'Tecnical',
+        link: '/tech/',
+        items: [
+          { text: 'Whitepaper', link: '/tech/whitepaper' },
+          { text: 'Request Registry Contract', link: '/tech/RegistryReadme' },       
+        ]
+      },          
     ],
 
     socialLinks: [

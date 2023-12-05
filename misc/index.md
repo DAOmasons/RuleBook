@@ -10,8 +10,6 @@ Get to know the brilliant minds behind our project. Our team page offers insight
 ### [Grant Ships Links](/misc/links)
 Find all the important links for Grant Ships
 
-### [Whitepaper](/misc/whitepaper)
-Dive deep into the foundational concepts, goals, and methodologies of our project. The whitepaper is a must-read for anyone seeking a thorough understanding of our vision and strategies.
 
 ### [Compliance](/misc/compliance)
 Compliance document for Grant Ships guiding the integrity and ethical guideline of Grant Ships.
