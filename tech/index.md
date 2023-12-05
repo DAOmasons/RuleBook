@@ -6,6 +6,6 @@
 ### [Whitepaper](/tech/whitepaper)
 
 
-### [Grant Ships Registry](tech/RegistryReadme)
+### [Grant Ships Registry](/tech/RegistryReadme)
 
 
