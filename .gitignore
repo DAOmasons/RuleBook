@@ -3,3 +3,4 @@ node_modules/*
 .vitepress/cache/deps/*
 .dependencygraph
 .vscode
+.vitepress/cache/deps/
