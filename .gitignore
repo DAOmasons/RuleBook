@@ -1,1 +1,5 @@
 node_modules/*
+.vitepress/dist/*
+.vitepress/cache/deps/*
+.dependencygraph
+.vscode
