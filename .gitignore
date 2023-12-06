@@ -1,8 +1,6 @@
 node_modules/*
-.vitepress/dist/*
-.vitepress/dist/assets/*
-.vitepress/dist/tech/*
-.vitepress/cache/deps/*
+.vitepress/dist/**/*
+.vitepress/cache/deps/**/*
 .dependencygraph
 .vscode
 .vitepress/cache/deps/
