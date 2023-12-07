@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Grant Ships"
   text: "Rule Book"
-  tagline: Under Development! Everything Subject to change!
+  tagline: Framework for Pluralistic Grant Giving
   image:
     src: /rocketgrad3.svg
     alt: GrantShips
@@ -29,7 +29,5 @@ features:
   - title: Adaptive Approach
     details: Through token-weighted voting, Arbitrum DAO creates the selective pressure that forces Grant Ships to evolve. As Arbitrum evolves, so will its grants program.
   - title: Progressive Decentralization
-    details: The game is designed to be self regulated and ran by Arbitrum DAO as the seasons progress.
-
+    details: The game is designed to be self-regulated and ran by Arbitrum DAO as the seasons progress.
 ---
-
