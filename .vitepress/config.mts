@@ -1,74 +1,77 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang: 'en-US',
+  lang: "en-US",
   title: "Grant Ships Rule Book",
   description: "An Evolutionary Grants Game",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/rocketgrad3.svg',
+    logo: "/rocketgrad3.svg",
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'About', link: '/misc/about' },
-      { text: 'How To Play', link: '/how-to-play/' }
+      { text: "Home", link: "/" },
+      { text: "About", link: "/misc/about" },
+      { text: "How To Play", link: "/how-to-play/" },
     ],
 
     sidebar: [
       {
-        text:'About Grant Ships',
-        link: '/misc/about'
-       },
-      {
-        text: 'How To Play',
-        link: '/how-to-play/',
-        items: [
-          { text: 'Delegated Arbitrum Voters', link: 'how-to-play/as-a-dao-mem' },
-          { text: 'Grant Ship Operators', link: 'how-to-play/as-a-gs-op' },
-          { text: 'Grantees', link: 'how-to-play/as-a-grantee' },
-          { text: 'Game Facilitators', link: 'how-to-play/as-a-faci' },
-          { text: 'Sign Up', link: 'https://forms.grantships.fun' },
-        ]
+        text: "About Grant Ships",
+        link: "/misc/about",
       },
       {
-        text: 'FAQ',
-        link: '/faqs/grantShipsFAQ'
+        text: "How To Play",
+        link: "/how-to-play/",
+        items: [
+          {
+            text: "Delegated Arbitrum Voters",
+            link: "how-to-play/as-a-dao-mem",
+          },
+          { text: "Grant Ship Operators", link: "how-to-play/as-a-gs-op" },
+          { text: "Grantees", link: "how-to-play/as-a-grantee" },
+          { text: "Game Facilitators", link: "how-to-play/as-a-faci" },
+          { text: "Sign Up", link: "https://forms.grantships.fun" },
+        ],
       },
       {
-        text: 'Misc',
-        link: '/misc/',
-        items: [
-          { text: 'Team', link: '/misc/team' },
-          { text: 'Grant Ships Links', link: '/misc/links' },
-          { text: 'Compliance Policy', link: '/misc/compliance' },
-        ]
+        text: "FAQ",
+        link: "/faqs/grantShipsFAQ",
       },
       {
-        text: 'Sample Tools',
-        link: '/tools/',
+        text: "Misc",
+        link: "/misc/",
         items: [
-          { text: 'DAOhaus', link: '/tools/daohaus' },
-          { text: 'Gitcoin Grant Stack', link: '/tools/grantStack' },
-          { text: 'Jokerace', link: 'tools/jokerace' },          
-        ]
+          { text: "Team", link: "/misc/team" },
+          { text: "Grant Ships Links", link: "/misc/links" },
+          { text: "Compliance Policy", link: "/misc/compliance" },
+        ],
       },
       {
-        text: 'Tecnical',
-        link: '/tech/',
+        text: "Sample Tools",
+        link: "/tools/",
         items: [
-          { text: 'Whitepaper', link: '/tech/whitepaper' },
-          { text: 'Request Registry Contract', link: '/tech/RegistryReadme' },       
-        ]
-      },          
+          { text: "DAOhaus", link: "/tools/daohaus" },
+          { text: "Gitcoin Grant Stack", link: "/tools/grantStack" },
+          { text: "Jokerace", link: "tools/jokerace" },
+        ],
+      },
+      {
+        text: "Technical",
+        link: "/tech/",
+        items: [
+          { text: "Whitepaper", link: "/tech/whitepaper" },
+          { text: "Request Registry Contract", link: "/tech/RegistryReadme" },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/daomasons' },
-      { icon: 'x', link: 'https://twitter.com/grantships'}
+      { icon: "github", link: "https://github.com/daomasons" },
+      { icon: "x", link: "https://twitter.com/grantships" },
     ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present DAO Masons'
-    }
-  }
-})
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2023-present DAO Masons",
+    },
+  },
+});
