@@ -19,6 +19,12 @@ export default defineConfig({
       {
         text: "About Grant Ships",
         link: "/misc/about",
+        items: [
+          {
+            text: "Beta Round",
+            link: "/misc/beta",
+          },
+        ],
       },
       {
         text: "How To Play",
@@ -31,7 +37,10 @@ export default defineConfig({
           { text: "Grant Ship Operators", link: "how-to-play/as-a-gs-op" },
           { text: "Grantees", link: "how-to-play/as-a-grantee" },
           { text: "Game Facilitators", link: "how-to-play/as-a-faci" },
-          { text: "Sign Up", link: "https://forms.grantships.fun" },
+          {
+            text: "Sign Up",
+            link: "https://forms.grantships.fun",
+          },
         ],
       },
       {

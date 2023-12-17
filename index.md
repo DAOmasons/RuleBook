@@ -10,12 +10,15 @@ hero:
     src: /rocketgrad3.svg
     alt: GrantShips
   actions:
-    - theme: brand
+    - theme: alt
       text: How To Play
       link: /how-to-play/
     - theme: alt
       text: FAQs
       link: /faqs/grantShipsFAQ
+    - theme: brand
+      text: Sign Up
+      link: https://forms.grantships.fun
 
 features:
   - title: Pluralistic Design
