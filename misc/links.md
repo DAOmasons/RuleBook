@@ -14,9 +14,7 @@ The following are the official links assosicated with `Grant Ships.`
 
 ## Operator Training
 
--[ ] Todo Training Guide
-
--[Questn 1 Rule Book](https://app.questn.com/quest/850775483498725572)
+- [Questn 1 Rule Book](https://app.questn.com/quest/850775483498725572)
 
 ## Development
 
