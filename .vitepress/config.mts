@@ -44,7 +44,6 @@ export default defineConfig({
         link: "/how-to-get-involved/",
         items: [
           { text: "Apply To Operate a Ship", link: "how-to-get-involved/apply" },
-          { text: "Sign Up", link: "https://forms.grantships.fun" },
           { text: "Grant Ship Operator Training Program", link: "how-to-get-involved/operatortraining" },
         ],
       },
