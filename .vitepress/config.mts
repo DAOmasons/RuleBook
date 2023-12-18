@@ -21,6 +21,10 @@ export default defineConfig({
         link: "/misc/about",
         items: [
           {
+            text: "Overview",
+            link: "/misc/overview",
+          },
+          {
             text: "Beta Round",
             link: "/misc/beta",
           },
@@ -43,8 +47,14 @@ export default defineConfig({
         text: "How To Get Involved",
         link: "/how-to-get-involved/",
         items: [
-          { text: "Apply To Operate a Ship", link: "how-to-get-involved/apply" },
-          { text: "Grant Ship Operator Training Program", link: "how-to-get-involved/operatortraining" },
+          {
+            text: "Apply To Operate a Ship",
+            link: "how-to-get-involved/apply",
+          },
+          {
+            text: "Grant Ship Operator Training Program",
+            link: "how-to-get-involved/operatortraining",
+          },
         ],
       },
       {
