@@ -42,19 +42,19 @@ A: A Grant Ship is a subDAO. It receives funds each season based on its past per
 :::
 
 ::: details Q: How are Grant Ships selected?
-A: When the game first begins, teams can apply to become Grant Ships. A weighted token vote is held, and the top 6 teams are assigned to become Grant Ships.
+A: When the game first begins, teams can apply to become Grant Ships. A team of facilitators with input from the community will choose the first Grant Ship eligible crews. There will likely be a community vote to determine the first 3 Grant Ship crews. Future iterations will be fully decentralized with token votes assigning Grant Ships.
 :::
 
 ::: details Q: What powers do Grant Ships have?
-A: Grant Ships have 2 main powers: Distribution & Disclosure. A Grant Ship receives funding and has permission to distribute the funds. It also can make official on-chain disclosures.
+A: Grant Ships have 2 main powers: Distribution & Disclosure. A Grant Ship receives funding and has permission to distribute the funds. It also can make official onchain disclosures.
 :::
 
 ::: details Q: What are the expectations of a Grant Ship?
-A: Grant Ships can operate however they like but are expected to submit a complete Portfolio Report at the end of a funding season, disclose who they are funding (as the funding occurs), and disclose major internal decisions and announcements on-chain.
+A: Grant Ships can operate however they like but are expected to operate transparently and in good faith. Their onchain disclosures will turn into a Portfolio Report at the end of a funding season, which includes all funding allocations. Grant Ships are encouraged to disclose major internal decisions and announcements onchain.
 :::
 
 ::: details Q: What happens if a Grant Ship doesn’t meet those expectations?
-A: The Facilitator Team assigns the Grant Ship a “yellow flag” (rules violation) or “red flag” (bad faith) that adds context for the end-of-season Ship Ranking Vote.
+A: The Facilitator Team has the option to assigns the Grant Ship a “yellow flag” (onchain attestation detailing a rules violation) or a “red flag” (percieved bad faith) that adds context for the end-of-season Ship Ranking Vote.
 :::
 
 ::: details Q: How does a Grant Ship receive funding?
@@ -62,7 +62,7 @@ A: In the first season, all Grant Ships receive an equal portion of funding from
 :::
 
 ::: details Q: How is Grant Ship’s performance measured?
-A: At the end of each season, each Grant Ship is required to submit a Portfolio Report. Portfolio Reports are ranked during the Ship Ranking Vote at the end of each season.
+A: At the end of each season, a portfolio report is generated from all available onchain allocations and attestations. Portfolio Reports are ranked by voters during the Ship Ranking Vote at the end of each season.
 :::
 
 ::: details Q: Why isn’t there a set governance structure for each Grant Ship?
@@ -72,11 +72,11 @@ A: We believe that optimal models for grant distribution have yet to be discover
 ## Facilitators
 
 ::: details Q: What power does the Facilitator Team have?
-A: The Facilitator Team is a group of elected individuals that collectively has permission to assign yellow and red flags to Grant Ships. They can also initiate the Ship Ranking Vote at the end of the season and finalize the results.
+A: The Facilitator Team is a group of elected individuals that collectively has permission to assign yellow and red flags to Grant Ships and initiate fund allocations as specified by Grant Ship crews. They also initiate the Ship Ranking Vote at the end of the season, finalize the results and launch a new funding round.
 :::
 
-::: details Q: What are yellow and red flags?
-A: Yellow and red flags are attestations issued by the Facilitator team. They are included as context in a Ship’s Portfolio Report. Yellow flags are for rules violations such as failure to meet a reporting requirement. Red flags are issued to teams that have ‘abandoned the ship’ or are deemed to be operating in bad faith.
+::: details Q: What is a red flags?
+A: Red flags are attestations issued by the Facilitator team. They are included as context in a Ship’s Portfolio Report. Red flags are issued to teams that appear to have ‘abandoned the ship’ or are deemed to be operating in bad faith. This flag will be included as context for voters at the end of each funding round.
 :::
 
 ::: details Q: What are the responsibilities of the Facilitator Team?
@@ -96,7 +96,7 @@ A: A Grant Season or Season for short, is a period of 3 months and is broken int
 A: This is the period where Grant Recipients are funded and begin producing results. This is also where most of the interaction between Grant Ships, Grant Recipients and the community occurs.
 :::
 
-::: details  Q: What happens during the Review Phase?
+::: details Q: What happens during the Review Phase?
 A: This is the phase where Grant Ships submit their Portfolio Report for review by the community and Facilitators. A community vote is initiated and the results determine funding levels for the upcoming season. If a crew fails to receive a minimum threshold of support from the community, new crews are onboarded to that ship during this period.
 :::
 
