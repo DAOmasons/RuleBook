@@ -17,4 +17,10 @@ When a Grant Ship is ready to distribute funds to a Grant Recipient, they create
 
 If the grant request meets the approval criteria, Game Facilitators execute the request and funds are distributed.
 
-They are also responsible for administrative tasks related to setting up community votes, initiate new seasons and keeping the community apprised of progress in the Grant Ships game.
+They are also responsible for administrative tasks related to setting up community votes, initiate new funding rounds and keeping the community apprised of progress in the Grant Ships game.
+
+### Coming Soon
+
+Check here for instructions on how to operate as a Game Facilitator.
+
+Interested in participating? [Apply Here](https://forms.grantships.fun/)

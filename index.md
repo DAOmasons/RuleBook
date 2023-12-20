@@ -32,5 +32,5 @@ features:
   - title: Adaptive Approach
     details: Through token-weighted voting, Arbitrum DAO creates the selective pressure that forces Grant Ships to evolve. As Arbitrum evolves, so will its grants program.
   - title: Progressive Decentralization
-    details: The game is designed to be self-regulated and administered by Arbitrum DAO as the seasons progress.
+    details: The game is designed to be self-regulated and administered by Arbitrum DAO as the funding rounds progress.
 ---

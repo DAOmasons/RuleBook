@@ -12,8 +12,14 @@ Grant Recipients bring projects that are selected and funded by Grant Ships.
 
 ### How it Works
 
-The Grant Ships dashboard will supply you with the information you need to contact the funding Grant Ship and begin the process.
+The Grant Ships dashboard will supply you with the information you need to contact the funding Grant Ship and begin the application process.
 
 If a Grant Ship decides to fund your project, you can expect to receive your funds after Game Facilitators have reviewed and approved the request.
 
 From then on, your relationship is with the Grant Ship crew and the Arbitrum DAO community. If you do well, it reflects well on your sponsoring Grant Ship, so you can expect them to be invested in your success.
+
+### Coming Soon
+
+Check back here for instructions on how to apply to receive grant funds.
+
+Interested in participating? [Apply Here](https://forms.grantships.fun/)

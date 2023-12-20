@@ -12,7 +12,7 @@ As an Arbitrum Delegated Voter, your vote shapes the Grant Ships program.
 
 ### How it works
 
-After each funding season, Voters have an opportunity to vote on their favorite Grant Ships.
+After each funding round, Voters have an opportunity to vote on their favorite Grant Ships.
 
 Ships that receive **more votes** are trusted with **more funds** in future rounds.
 
@@ -21,3 +21,8 @@ Ships that don't meet a certain voting threshold may have their crew jettisoned!
 Voters also have the ability to revoke permissions from Grant Ships and Game Facilitators outright.
 
 In this way the Arbitrum DAO community shapes the Grant Ships program, determining who is given more resources, and who should be replaced.
+
+
+### Coming Soon
+
+Check here for instructions on how to vote and participate in the Grant Ships game.
