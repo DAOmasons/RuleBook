@@ -35,6 +35,12 @@ Discover your role in managing the Grant Ships game. Key duties include:
 - Distributing funds
 - Monitoring rule adherence
 
+## Game Flow
+
+For the beta round, the order of operations looks something like this:
+
+![](/public/grantships_swimlanes.png)
+
 ## Conclusion
 
 Dive into each section to fully understand your role and how you can contribute to our community's success. Your participation and understanding are key to the thriving of our innovative ecosystem.

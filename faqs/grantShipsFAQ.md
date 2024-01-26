@@ -40,21 +40,23 @@ A: A Grant Ship is a subDAO. It receives funds each funding round based on its p
 :::
 
 ::: details Q: How are Grant Ships selected?
-A: When the game first begins, teams or individuals can apply to operate a Grant Ship. A weighted token vote is held, and the top three teams are assigned to be Grant Ships operators.
+A: When the game first begins, teams can apply to become Grant Ships. A team of facilitators with input from the community will choose the first Grant Ship eligible crews. There will likely be a community vote to determine the first 3 Grant Ship crews. Future iterations will be fully decentralized with token votes assigning Grant Ships.
+:::
 
-Grant Ships can be added or removed over time but we choose to start with three.
+::: details Q: Are Grant Ship Operators compensated?
+A: Grant Ship Operators have a pool of funds available to distribute as they see fit. We recommend operators pay themselves a management fee from these funds.
 :::
 
 ::: details Q: What powers do Grant Ships have?
-A: Grant Ships have 2 main powers: Distribution & Disclosure. A Grant Ship receives funding and has permission to allocate the funds. The final distribution happens periodically after review by Game Facilitators. It also can make official on-chain attestation disclosures and is encouraged to do so to publish major decisions and announcements.
+A: Grant Ships have 2 main powers: Distribution & Disclosure. A Grant Ship receives funding and has permission to distribute the funds. It also can make official onchain disclosures.
 :::
 
 ::: details Q: What are the expectations of a Grant Ship?
-A: Grant Ships can operate however they like. At the end of each funding round a portfolio report is generated with all of the distributions and disclosures made by the Grant Ship. The portfolio report also includes any Game Facilitator and Grant Recipient attestations regarding the Grant Ship.
+A: Grant Ships can operate however they like but are expected to operate transparently and in good faith. Their onchain disclosures will turn into a Portfolio Report at the end of a funding season, which includes all funding allocations. Grant Ships are encouraged to disclose major internal decisions and announcements onchain.
 :::
 
-::: details Q: What happens if a Grant Ship doesn’t meet expectations?
-A: The Facilitator Team may assign a “red flag” attestation if they think the Grant Ship is operating in bad faith or has been abandoned. Grant Recipients have the option to create an attestation about their experience with the Grant Ship. These become part of the end of funding round portfolio report to be reviewed by the voting community. Community votes determine if the Grant Ship is granted more or less funding for the upcoming round, or if they are potentially replaced by a new operator for not meeting minimum vote thresholds.
+::: details Q: What happens if a Grant Ship doesn’t meet those expectations?
+A: The Facilitator Team has the option to assign the Grant Ship a “yellow flag” (onchain attestation detailing a rules violation) or a “red flag” (percieved bad faith) that adds context for the end-of-season Ship Ranking Vote. The red flag locks down a ship's operations until it is resolved.
 :::
 
 ::: details Q: How does a Grant Ship receive funding?
@@ -62,7 +64,7 @@ A: In the first funding round, all Grant Ships receive an equal portion of fundi
 :::
 
 ::: details Q: How is Grant Ship’s performance measured?
-A: At the end of each funding round, each Grant Ship is required to submit a Portfolio Report. Portfolio Reports are ranked during the Ship Ranking Vote at the end of each funding round.
+A: At the end of each funding round, a portfolio report is generated from all available onchain allocations and attestations. Portfolio Reports are ranked by voters during the Ship Ranking Vote at the end of each season.
 :::
 
 ::: details Q: Why isn’t there a set governance structure for each Grant Ship?
@@ -71,12 +73,12 @@ A: We believe that optimal models for grant distribution have yet to be discover
 
 ## Game Facilitators
 
-::: details Q: What power does the Game Facilitator Team have?
-A: The Facilitator Team is a group of elected individuals that collectively has permission to approve Grant Ship allocations and optionally assign red flags to Grant Ships in cases of ship abandonment or clear bad faith activity. They also initiate the Ship Ranking Vote at the end of the funding round, finalize the results and make announcments when different milestones are reached.
+::: details Q: What power does the Facilitator Team have?
+A: The Facilitator Team is a group of elected individuals that collectively has permission to assign yellow and red flags to Grant Ships and initiate fund allocations as specified by Grant Ship crews. They also initiate the Ship Ranking Vote at the end of the season, finalize the results and launch a new funding round.
 :::
 
-::: details Q: What are red flags?
-A: Red flags are attestations issued by the Game Facilitator Team. They are included as context in a Ship’s Portfolio Report. Red flags are issued to teams that have ‘abandoned the ship’ or are deemed to be operating in bad faith. They have no impact beyond contextual information for voters to use in their decision making process at the end of a funding round.
+::: details Q: What is a red flags?
+A: Red flags are attestations issued by the Facilitator team. They are included as context in a Ship’s Portfolio Report. Red flags are issued to teams that appear to have ‘abandoned the ship’ or are deemed to be operating in bad faith. This flag will be included as context for voters at the end of each funding round.
 :::
 
 ::: details Q: What are the responsibilities of the Facilitator Team?

@@ -5,9 +5,10 @@ Welcome to the Operator Training module for Grant Ships. This section is designe
 ### Current Training Quests
 
 **Quest 1: Introduction to Grant Ships Rules**
+
 - **Access Quest:** [Quest 1](https://app.questn.com/quest/850775483498725572)
 - **Objective:** This introductory quest lays the foundation for your journey as a Ship Operator. You'll learn the basics of the rules to play the game.
-- **Completion Reward:** Upon completion of the quizz, you can mint an SBT to show you have completed ad passed the quizz.
+- **Completion Reward:** Upon completion of the quiz, you can mint an SBT to show you have completed and passed the quiz.
 
 ### Upcoming Training Quests
 
