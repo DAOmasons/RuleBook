@@ -24,7 +24,7 @@ This repository hosts the VitePress site for the DAOmasons RuleBook. We welcome 
 
 3. **Run Locally:**
    ```bash
-   npm run dev:docs
+   npm run docs:dev
    ```
    The site should now be running on `http://localhost:5173`.
 
