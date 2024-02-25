@@ -521,7 +521,7 @@ Elinor Ostrom's groundbreaking work on managing commons offers eight principles 
         - Marketing
         - Game Theory
 
-    - [Jordan Lesich](https://x.com/JordanLesich) (Jordeth.eth)
+    - [Jordan Lesich](https://x.com/JordanLesich) (Jord.eth)
         - Product Manager
         - Lead Engineer
         - Wireframes/Design
