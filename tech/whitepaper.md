@@ -516,16 +516,22 @@ Elinor Ostrom's groundbreaking work on managing commons offers eight principles 
 - [DAO Masons](https://daomasons.com)
     - [Chris Wylde](https://x.com/boilerrat) (Boilerrat.eth)
         - Project Manager
-        - Outreach Manager
-        - UI/UX
-    - [Jordan Lesich](https://x.com/JordanLesich) (Jordeth.eth)
-        - Engineering Lead
-        - UI/UX
-    - [Matt Davis](https://x.com/ui_369) (UI369.eth)
-        - Product Manager
-        - UI/UX Lead
+        - Community Lead
+        - Protocol Integrations
+        - Marketing
+        - Game Theory
 
----
+    - [Jordan Lesich](https://x.com/JordanLesich) (Jordeth.eth)
+        - Product Manager
+        - Lead Engineer
+        - Wireframes/Design
+        - Game Design
+
+    - [Matt Davis](https://x.com/ui_369) (UI369.eth)
+        - Game Co-Ordinator Lead
+        - Game Design
+        - UX/UI Development
+        - Marketing
 
 ## Index
 ### Grant Ships Links
