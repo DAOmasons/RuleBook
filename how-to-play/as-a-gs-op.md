@@ -4,7 +4,7 @@ If you or your team have been selected to operate a Grant Ship, congratulations!
 
 ![](/public/operator.png)
 
-### Grant Ship Operators:
+<h3><img src="/public/grantship_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Ship Operators</h3>
 
 - Providing an application that includes an allocation strategy, mission and grantee submission guidelines.
 - Reviewing/Approving project applicants

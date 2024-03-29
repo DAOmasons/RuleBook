@@ -4,7 +4,7 @@ Grant Recipients bring projects that are selected and funded by Grant Ships.
 
 ![](/public/grant_recipient.webp)
 
-### Grant Recipients:
+<h3><img src="/public/project_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Recipients</h3>
 
 - Responsible for describing their goals in a project application
 - Responsible for delivering on promises made in the application

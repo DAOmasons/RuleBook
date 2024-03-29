@@ -6,6 +6,8 @@ Game Facilitators arbitrate the game rules and verify Grant Ship distributions.
 
 ### Game Facilitators:
 
+<h3><img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Ship Operators</h3>
+
 - Review Allocation Disclosures from Grant Ships to ensure they are not malicious
 - Approve fund allocations to projects as per request from Grant Ships
 - Flag Grant Ships that are not operating by the rulebook
