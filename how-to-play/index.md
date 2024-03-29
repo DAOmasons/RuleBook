@@ -20,11 +20,12 @@ Learn about your stewardship over the funds and the grant-giving process. You'll
 - Managing grant recipient details
 - Ensuring progress disclosure
 
-### [Grantees](/how-to-play/as-a-grantee)
+### [Project Managers/Grantees](/how-to-play/as-a-project)
 
 Find out how to engage with Grant Ships and the wider community. Responsibilities:
 
-- Engaging with Grant Ships
+- Applying and engaging with Grant Ships
+- Delivering project progress
 - Updating on project progress
 
 ### [Game Facilitators](/how-to-play/as-a-faci)

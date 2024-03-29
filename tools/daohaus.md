@@ -1,6 +1,6 @@
 # DAOhaus: A Tool for Grant Ship Governance
 
-DAOhaus serves as the primary user interface for the moloch DAO contracts, a cornerstone in the realm of grant communities. This platform has a storied history, beginning with its adoption by Meta Cartel, which revolutionized grant funding through membership fee redistribution. 
+DAOhaus serves as the primary user interface for the moloch DAO contracts, a cornerstone in the realm of grant communities. This platform has a storied history, beginning with its adoption by Meta Cartel, which revolutionized grant funding through membership fee redistribution.
 
 ## DAOhaus in Context
 
@@ -35,7 +35,6 @@ The use of DAOhaus in Grant Ships could unfold as follows:
 - **Sponsorship Dependency**: Proposals require sponsorship from a ship member, which could create bottlenecks.
 
 DAOhaus presents a unique and powerful tool for Grant Ship governance, blending traditional and innovative governance models. Its effectiveness, however, will largely depend on the specific dynamics and needs of each Grant Ship.
-
 
 ## Links
 

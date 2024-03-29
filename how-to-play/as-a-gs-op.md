@@ -15,6 +15,8 @@ If you or your team have been selected to operate a Grant Ship, congratulations!
 
 ### How it Works
 
+> In the Grant Ships app, the <img src="/public/grantship_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> icon represents Grant Ship activity.
+
 Your primary responsibility as a Grant Ship Operator is to be a good steward of the funds you are entrusted with.
 
 You will need to determine your unique approach to grant giving and distribute the funds through the Grant Ships dashboard.
@@ -26,3 +28,14 @@ If your performance is too poor, you may be jettisoned and another crew will tak
 ### Get Involved
 
 [Apply to be a Grant Ship Operator](https://app.grantships.fun)
+
+<h3 style="margin-bottom: 20px;">Screenshots</h3>
+
+<div style="margin-bottom: 20px;">
+  <img src="/public/TestShipProjects.png" alt="Grant Ship Screenshot 1" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
+  <p style="text-align: center;">Grant Ship Dashboard, where most required activity takes place</p>
+</div>
+<div style="margin-bottom: 20px;">
+  <img src="/public/ProjectUpdates.png" alt="Grant Ship Screenshot 2" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
+  <p style="text-align: center;">Grantee Dashboard, post project updates</p>
+</div>

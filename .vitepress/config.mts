@@ -39,7 +39,7 @@ export default defineConfig({
             link: "how-to-play/as-a-dao-mem",
           },
           { text: "Grant Ship Operators", link: "how-to-play/as-a-gs-op" },
-          { text: "Grantees", link: "how-to-play/as-a-grantee" },
+          { text: "Project Managers", link: "how-to-play/as-a-project" },
           { text: "Game Facilitators", link: "how-to-play/as-a-faci" },
         ],
       },

@@ -4,9 +4,7 @@ Game Facilitators arbitrate the game rules and verify Grant Ship distributions.
 
 ![](/public/game_facilitators.webp)
 
-### Game Facilitators:
-
-<h3><img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Ship Operators</h3>
+<h3><img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Game Facilitators</h3>
 
 - Review Allocation Disclosures from Grant Ships to ensure they are not malicious
 - Approve fund allocations to projects as per request from Grant Ships
@@ -14,6 +12,8 @@ Game Facilitators arbitrate the game rules and verify Grant Ship distributions.
 - Host live Minting Events where they approve Allocation Disclosures
 
 ### How it Works
+
+> In the Grant Ships app, the <img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> icon represents Game Facilitator activity.
 
 When a Grant Ship is ready to distribute funds to a Grant Recipient, they create a request that is reviewed by Game Facilitators.
 
@@ -23,6 +23,4 @@ They are also responsible for administrative tasks related to setting up communi
 
 ### Coming Soon
 
-Check here for instructions on how to operate as a Game Facilitator.
-
-Interested in participating? [Apply Here](https://forms.grantships.fun/)
+For the beta round, the DAO Masons team will be operating as Game Facilitators. In the future this will be an elected position.
