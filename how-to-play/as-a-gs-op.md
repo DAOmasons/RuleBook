@@ -6,8 +6,11 @@ If you or your team have been selected to operate a Grant Ship, congratulations!
 
 ### Grant Ship Operators:
 
-- Are responsible for signaling their Allocation Intents (distributions)
-- Create onchain attestations for important updates or announcments (disclosures)
+- Providing an application that includes an allocation strategy, mission and grantee submission guidelines.
+- Reviewing/Approving project applicants
+- Reviewing/Approving initial milestone layout for approved projects
+- Distributing funds by approving submitted project milestones
+- Creating onchain attestations for important updates or announcements
 - Encourage Grant Recipients to disclose progress on work completed
 
 ### How it Works
@@ -20,8 +23,6 @@ At the end of the funding round, you'll have an opportunity to report on your pr
 
 If your performance is too poor, you may be jettisoned and another crew will take over your position!
 
-### Coming Soon
+### Get Involved
 
-Check back here for instructions on how to apply to receive grant funds.
-
-Interested in participating? [Apply Here](https://forms.grantships.fun/)
+[Apply to be a Grant Ship Operator](https://app.grantships.fun)
