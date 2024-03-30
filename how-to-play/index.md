@@ -1,6 +1,6 @@
 # How to Play - Guide to Roles and Responsibilities
 
-Welcome to the "How to Play" section! Here, you'll find comprehensive guides on the various roles within Grant Ships. Whether you're a Delegated Arbitrum Voter, a Game Facilitator, a Grantee, or a Grant Ship Operator, this section will help you understand your responsibilities and how to perform them effectively.
+Whether you're a Delegated Arbitrum Voter, a Game Facilitator, a Project Manager, or a Grant Ship Operator, this section will help you understand your responsibilities and how to perform them effectively.
 
 ## Sections Overview
 

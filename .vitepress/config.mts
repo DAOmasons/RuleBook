@@ -48,8 +48,12 @@ export default defineConfig({
         link: "/how-to-get-involved/",
         items: [
           {
-            text: "Apply To Operate a Ship",
+            text: "Apply to Operate a Ship",
             link: "how-to-get-involved/apply",
+          },
+          {
+            text: "Apply for a Grant",
+            link: "how-to-get-involved/project",
           },
           {
             text: "Grant Ship Operator Training Program",

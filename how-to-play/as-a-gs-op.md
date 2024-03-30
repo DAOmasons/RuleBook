@@ -33,7 +33,7 @@ If your performance is too poor, you may be jettisoned and another crew will tak
 
 <div style="margin-bottom: 20px;">
   <img src="/public/TestShipProjects.png" alt="Grant Ship Screenshot 1" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
-  <p style="text-align: center;">Grant Ship Dashboard, where most required activity takes place</p>
+  <p style="text-align: center;">Grant Ship Operator Dashboard, showing project grants and completion status.</p>
 </div>
 <div style="margin-bottom: 20px;">
   <img src="/public/ProjectUpdates.png" alt="Grant Ship Screenshot 2" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">

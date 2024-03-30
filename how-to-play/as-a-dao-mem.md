@@ -6,9 +6,9 @@ As an Arbitrum Delegated Voter, your vote shapes the Grant Ships program.
 
 ### Delegated Arbitrum Voters:
 
-- Vote to elect Grant Ships in the setup phase
-- Vote in Grant Ship allocation rounds to determine the efficacy of each ship
-- Vote to revoke roles from teams that are not acting in the best interest of the DAO. For example, if Game Facilitators are abusing power or not acting by their mandate, the DAO can revoke their role and elect new Game Facilitators.
+- Vote to elect Grant Ships in the setup phase (Ships are selected by game administrators for the beta round)
+- Vote in Grant Ship allocation rounds
+- Vote to revoke roles (hats protocol) from teams that are not acting in the best interest of the DAO. For example, if Game Facilitators are abusing power or not acting by their mandate, the DAO can revoke their role and elect new Game Facilitators.
 
 ### How it works
 
@@ -22,7 +22,6 @@ Voters also have the ability to revoke permissions from Grant Ships and Game Fac
 
 In this way the Arbitrum DAO community shapes the Grant Ships program, determining who is given more resources, and who should be replaced.
 
-
 ### Coming Soon
 
-Check here for instructions on how to vote and participate in the Grant Ships game.
+During the [Beta Round](/misc/beta.html), voters will have an important role to play between rounds 1 and 2.
