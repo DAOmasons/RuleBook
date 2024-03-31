@@ -12,7 +12,15 @@ We are also looking for great gaming projects to fund.
 
 [Project Application Form](https://app.grantships.fun/create-project)
 
-## Overview
+### Gaming in Arbitrum
+
+#### The core objective of this round is to encourage **innovation in gaming** on the Arbitrum network. Grant recipients are tasked with completing a project within the following categories:
+
+- **Developing** a new feature for an existing game that introduces a unique game mechanic and incorporates on-chain actions, or
+- **Creating** a self-contained game with an engaging game loop and essential blockchain integration, or
+- **Producing** tooling, programs or other deliverables that have a tangible and measurable impact on the Arbitrum gaming ecosystem.
+
+## Round Overview
 
 ### Round Title: “Gaming on Arbitrum”
 
@@ -38,16 +46,10 @@ For the first round, each ship will have 15,000 ARB allocated to them. 10% of th
 
 ## Key Points for Operators
 
-#### The core objective of this round is to encourage **innovation in gaming** on the Arbitrum network. Grant recipients are tasked with completing a project within the following categories:
-
-- **Developing** a new feature for an existing game that introduces a unique game mechanic and incorporates on-chain actions, or
-- **Creating** a self-contained game with an engaging game loop and essential blockchain integration, or
-- **Producing** tooling, programs or other deliverables that have a tangible and measurable impact on the Arbitrum gaming ecosystem.
-
 #### Choose projects and supply grants to promote:
 
 - **Measurable Impact:** Focus on fostering homegrown talent and catalyzing game development on Arbitrum in a way that can be observed and measured.
-- **On-Arbitrum Gaming:** Encourage the use and development of game contract libraries and specialized tooling for Arbitrum.
+- **On-Arbitrum Gaming:** Encourage the use and development of games on Arbitrum.
 - **Community Engagement:** Leverage the Arbitrum community's expertise, explore potential integrations with existing platforms and consider hosting events that spur creativity and engagement.
 
 ### Feedback
