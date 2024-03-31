@@ -1,4 +1,4 @@
-# Grant Ships: An Eevolutionary Grants Framework for the Arbitrum Ecosystem
+# Grant Ships: An Evolutionary Grants Framework for the Arbitrum Ecosystem
 
 TLDR: Grant Ships allows multiple teams (aka Grant Ships) to do grant allocation under one DAO's umbrella. The sponsor DAO puts grant funds into one pile, then it is split among the multiple teams.
 
