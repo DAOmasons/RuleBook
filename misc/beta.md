@@ -12,6 +12,12 @@ We are also looking for great gaming projects to fund.
 
 [Project Application Form](https://app.grantships.fun/create-project)
 
+## Application Guidelines for Operators
+
+1. Make sure you emphasize how you will meet the **Core Objective** of this round (Gaming in Arbitrum)
+2. Set your Management Fee to 10%. All operators will receive 10%.
+3. The application has 2 steps, make sure you complete both steps!
+
 ### Gaming in Arbitrum
 
 #### The core objective of this round is to encourage **innovation in gaming** on the Arbitrum network. Grant recipients are tasked with completing a project within the following categories:
