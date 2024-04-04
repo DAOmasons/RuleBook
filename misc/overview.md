@@ -45,4 +45,4 @@ Through token-weighted voting, Arbitrum DAO creates the selective pressure that 
 
 ## Final Thoughts
 
-This is a new system that we designed from scratch -- which is hard to get across in a two-minute read. For more reasoning and specifics, [please read more in our FAQ](/faqs/grantShipsFAQ.md).
+Grant Ships is being designed from the ground up and some of the details will have to change as we implement it. [Please read more in our FAQ](/faqs/grantShipsFAQ.md).
