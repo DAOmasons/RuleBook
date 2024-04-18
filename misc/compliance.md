@@ -12,6 +12,8 @@
 
 This Compliance Policy is designed for the Grant Ships project, a decentralized grants game within the Arbitrum ecosystem. It outlines the standards and procedures to be adhered to by all participants, ensuring legal, ethical, and operational integrity, in compliance with KYC (Know Your Customer), KYB (Know Your Business), and KYT (Know Your Transaction) standards.
 
+> **Beta Test Caveat**: Certain parts of this policy do not apply to the beta test process, specifically those concerning elections held by Delegated Arbitrum Voters. This is necessary due to the nature and timing of the beta test, but does not change the intention of the project overall to be held accountable by the Arbitrum Delegate Voters. Even though elections for some positions will not be held during the beta test, the rest of the policy remains in effect.
+
 ## 2. Legal and Ethical Compliance
 
 ### 2.1 General Compliance
@@ -50,9 +52,9 @@ Ship Operators are integral to the Grant Ships project, playing key roles in mai
 - **Due Diligence**: Conducting thorough due diligence on grant applicants to assess their credibility and the feasibility of their proposals. This includes reviewing their past performance, reputation within the ecosystem, and the potential impact of their proposed project.
 - **Transparency and Reporting**: Ship Operators are responsible for maintaining transparency in the grant review process. This includes providing clear feedback to applicants and preparing reports that outline the rationale for grant approvals or rejections.
 - **Community Engagement and Feedback**: Engaging with the broader community is a critical aspect of a Ship Member's role. They are expected to gather and incorporate community feedback into the grant review process, ensuring that the decision-making process is inclusive and reflective of the community's views and needs.
+- **Conflicts of Interest**: Ship Operators strive to be fair and neutral in their allocation decisions. Operators should abstain from funding projects in which they have a personal or political interest, and must consider and evaluate all grant applications from a fair and neutral perspective.
 - **Policy Advocacy**: Ship Operators also play a role in advocating for and educating about the compliance policy and its importance in ensuring the integrity and success of the Grant Ships project. They are ambassadors of the project's values and standards within the community.
 - **Continuous Learning and Adaptation**: Ship Operators are expected to stay informed about the evolving dynamics of the Arbitrum ecosystem and adapt their evaluation criteria and processes accordingly.
-- **Conflicts of Interest**: Ship Operators strive to be fair and neutral in their allocation decisions. Operators should abstain from funding projects in which they have a personal or political interest, and must consider and evaluate all grant applications from a fair and neutral perspective.
 
 ### 3.3 Delegated Arbitrum Voters
 
