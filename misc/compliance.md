@@ -1,8 +1,8 @@
 # Grant Ships Compliance Policy
 
-**Version 0.1**
+**Version 0.2**
 
-**Effective Date: April 14, 2024**
+**Effective Date: April 19, 2024**
 
 ## Table of Contents
 
@@ -12,13 +12,13 @@
 
 This Compliance Policy is designed for the Grant Ships project, a decentralized grants game within the Arbitrum ecosystem. It outlines the standards and procedures to be adhered to by all participants, ensuring legal, ethical, and operational integrity, in compliance with KYC (Know Your Customer), KYB (Know Your Business), and KYT (Know Your Transaction) standards.
 
-> **Beta Test Caveat**: Certain parts of this policy do not apply to the beta test process, specifically those concerning elections held by Delegated Arbitrum Voters. This is necessary due to the nature and timing of the beta test, but does not change the intention of the project overall to be held accountable by the Arbitrum Delegate Voters. Even though elections for some positions will not be held during the beta test, the rest of the policy remains in effect.
+> **Beta Test Caveat**: Certain parts of this policy do not apply to the beta test process, specifically those concerning elections held by Delegated Arbitrum Voters. This is necessary due to the nature and timing of the beta test, but does not change the intention of the project overall to be held accountable by the Arbitrum Delegate Voters. Even though elections for some positions will not be held during the beta test, the rest of the policy remains in effect.s
 
 ## 2. Legal and Ethical Compliance
 
 ### 2.1 General Compliance
 
-Participants, especially grant recipients, must comply with the laws and regulations of their respective jurisdictions.
+Participants, especially Grant Recipients and Ship Operators, must comply with the laws and regulations of their respective jurisdictions.
 
 ### 2.2 Sanctions and KYC Compliance
 
@@ -47,12 +47,12 @@ Facilitators play a crucial role in the governance and operational success of th
 
 Ship Operators are integral to the Grant Ships project, playing key roles in maintaining the project's alignment with its core principles and objectives. Their responsibilities include:
 
-- **Assessment of Funding Requests**: Ship Operators are tasked with meticulously reviewing funding requests to ensure they are in complete alignment with the project's compliance policy. This involves evaluating the purpose, scope, and impact of each request to guarantee adherence to ethical and legal standards.
-- **Verification of Grant Alignment**: Ensuring that all grants support the Operators ecosystem is a primary responsibility of Ship Operators. They evaluate grant proposals to confirm that they contribute positively to the ecosystem and align with its strategic objectives.
+- **Conflicts of Interest**: Ship Operators strive to be fair and neutral in their allocation decisions. Operators should abstain from funding projects in which they have a personal, financial or political interest and must consider and evaluate all grant applications from a fair and neutral perspective.
+- **Assessment of Funding Requests**: Ship Operators are tasked with meticulously reviewing funding requests to ensure they are in complete alignment with this compliance policy. This involves evaluating the purpose, scope, and impact of each request to guarantee adherence to ethical and legal standards.
+- **Verification of Grant Alignment**: Ensuring that all grants support the Arbitrum ecosystem and are aligned with the theme of the funding round is a primary responsibility of Ship Operators. They evaluate grant proposals to confirm that they contribute positively to the ecosystem and align with its strategic objectives.
 - **Due Diligence**: Conducting thorough due diligence on grant applicants to assess their credibility and the feasibility of their proposals. This includes reviewing their past performance, reputation within the ecosystem, and the potential impact of their proposed project.
-- **Transparency and Reporting**: Ship Operators are responsible for maintaining transparency in the grant review process. This includes providing clear feedback to applicants and preparing reports that outline the rationale for grant approvals or rejections.
-- **Community Engagement and Feedback**: Engaging with the broader community is a critical aspect of a Ship Member's role. They are expected to gather and incorporate community feedback into the grant review process, ensuring that the decision-making process is inclusive and reflective of the community's views and needs.
-- **Conflicts of Interest**: Ship Operators strive to be fair and neutral in their allocation decisions. Operators should abstain from funding projects in which they have a personal or political interest, and must consider and evaluate all grant applications from a fair and neutral perspective.
+- **Transparency and Reporting**: Ship Operators are responsible for maintaining transparency in the grant review process. This includes providing clear feedback to applicants and posting updates that outline the rationale for grant approvals or rejections.
+- **Community Engagement and Feedback**: Engaging with the broader community is a critical aspect of a Ship Operator's role. They are expected to gather and incorporate community feedback into the grant review process, ensuring that the decision-making process is inclusive and reflective of the community's views and needs. This will be reinforced by periodic community votes on Ship Operators' performances.
 - **Policy Advocacy**: Ship Operators also play a role in advocating for and educating about the compliance policy and its importance in ensuring the integrity and success of the Grant Ships project. They are ambassadors of the project's values and standards within the community.
 - **Continuous Learning and Adaptation**: Ship Operators are expected to stay informed about the evolving dynamics of the Arbitrum ecosystem and adapt their evaluation criteria and processes accordingly.
 
@@ -79,7 +79,7 @@ Grant Recipients are critical stakeholders in the Grant Ships project and are su
 - **Adherence to Sanctions and AML Regulations**: Grant Recipients are prohibited from transferring any funds to entities known to be on the OFAC (Office of Foreign Assets Control) sanctions list. They must also adhere to anti-money laundering (AML) guidelines to prevent illicit financial activities.
 - **Milestone Reporting**: Recipients are required to submit detailed milestone reports in an honest and timely manner. These reports should clearly demonstrate the progress and impact of their projects, as well as the allocation and use of the funds.
 - **Notification of Delays**: In the event of any delays or deviations from the proposed timeline or objectives, Grant Recipients must promptly notify the DAO. Transparent communication is vital for maintaining trust and facilitating any necessary adjustments or support.
-- **Prohibition on Legal Expenses**: Funds received from the Grant Ships project are not to be used for legal expenses or purposes. They are intended solely for the development and enhancement of projects within the Arbitrum ecosystem.
+- **Prohibition on Legal Expenses**: Funds received from the Grant Ships project are not to be used for legal expenses or similar purposes. They are intended solely for the development and enhancement of projects within the Arbitrum ecosystem.
 
 #### Compliance and Oversight:
 
@@ -107,9 +107,9 @@ Participants are responsible for upholding data security and privacy standards, 
 
 ## 6. Enforcement and Compliance Failure
 
-### 6.1 Non-Compliance Penalties
+### 6.1 Non-Compliance Penalties for Ship Operators
 
-The Grant Ships project employs a structured flags system to address non-compliance issues, ensuring that all participants adhere to the established Compliance Policy. This system is designed to both warn and penalize participants for infractions in a fair and transparent manner.
+The Grant Ships project employs a structured flags system to address non-compliance issues for Ship Operators. This system is designed to both warn and penalize Ship Operators for infractions in a fair and transparent manner.
 
 #### Warnings and Yellow Flag System:
 
@@ -130,7 +130,7 @@ The Grant Ships project employs a structured flags system to address non-complia
 
 ### 6.3 Compliance Acknowledgement in Digital Assets (Hats)
 
-By holding a "Hat" [^4][^5] within the Grant Ships project, you implicitly agree to adhere to this Compliance Policy. The policy is integrated into the metadata of each Hat. The following applies:
+By holding a "Hat" [^4][^5] and interacting with permissioned aspects of the game, accessible as a result of holding said Hat within the Grant Ships project, you implicitly agree to adhere to this Compliance Policy. The policy is integrated into the metadata of each Hat. The following applies:
 
 - **Individual Holders**: By holding a Hat, individual members agree to comply with all aspects of this Compliance Policy. A copy of the policy is embedded in the Hat's metadata for reference.
 - **Group Affiliation**: In cases where Hats are held by a group wallet or governed by a smart contract, all group members are bound by the Compliance Policy. The authority exercised by the group is contingent upon adherence to these guidelines.
@@ -145,7 +145,7 @@ The Grant Ships Compliance Policy is subject to a biannual review to ensure its 
 - **Suggestions for Changes**: During the review, any required changes, enhancements, additions, or deletions to the policy will be identified.
 - **Proposal Development**: The suggested modifications will be compiled into a comprehensive proposal, detailing the rationale and expected impact of each change.
 - **Community Consultation**: Prior to finalization, the proposal will be presented to the community for feedback, ensuring transparency and inclusivity in the policy development process.
-- **Submission to Arbitrum DAO**: The final proposal, incorporating community feedback, will be submitted to the Arbitrum DAO for ratification.
+- **Submission to Arbitrum DAO**: The final proposal, incorporating community feedback, will be submitted to the governing DAO for ratification.
 - **Implementation**: Upon approval, the changes will be formally integrated into the Compliance Policy and communicated to all participants.
 - **Documentation**: All amendments and their effective dates will be documented for reference and transparency.
 
