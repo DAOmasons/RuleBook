@@ -20,7 +20,7 @@ Key Features:
 
 ## The Grant Ships Concept
 
-Grant Ships is more than just a funding mechanism; it's a strategic game that brings life to pluralistic, decentralized governance. By gamifying the process of grant distribution, it seeks to enhance participation, effectiveness, and inclusivity within the Arbitrum ecosystem.
+Grant Ships is more than just a funding mechanism; it's a strategic game that brings life to pluralistic, decentralized governance. By gamifying the process of grant distribution, it seeks to enhance participation, effectiveness, and inclusivity.
 
 ## Roles in Grant Ships
 
@@ -42,7 +42,7 @@ Teams selected to operate a Grant Ship, responsible for stewarding funds, design
 
 ## The Game Mechanics
 
-From the setup phase to the allocation of funds, Grant Ships operates as an engaging game. Participants undergo a process of proposal submission, community voting, and transparent fund allocation, all driven by the collective decision-making of the Arbitrum community.
+From the setup phase to the allocation of funds, Grant Ships operates as an engaging game. Participants undergo a process of proposal submission, community voting, and transparent fund allocation, all driven by DAO-powered collective decision-making.
 
 ## Community and Decentralization
 
@@ -54,4 +54,4 @@ Participation in Grant Ships offers numerous benefits, including a democratic in
 
 ## Conclusion
 
-Grant Ships stands as a beacon of innovation in decentralized grant allocation. It's not just a platform but a movement towards a more equitable, participatory, and effective model of community-driven funding.
+Grant Ships stands for a transparent, participatory and decentralized grant allocation.

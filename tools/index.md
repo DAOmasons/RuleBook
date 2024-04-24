@@ -1,35 +1,26 @@
 # Sample Tools for Grant Ship Operators
 
-Welcome to the "Sample Tools" section, a curated list of tools designed to aid Grant Ship Operators in their unique missions. Here, we provide insights into various tools that might enhance the efficiency and effectiveness of your operations. Remember, each Grant Ship is different, and what works for one may not work for another. Part of the Grant Ships experience is discovering which tools best suit your needs.
-
-For a more comprehensive list of tools availble to DAO's, please check out the repo of [Awesome DAO](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations) tools.
+Welcome to the "Sample Tools" section. These are tools we've found useful for running decentralized governance operations.
 
 ## Tools Overview
 
 ### [DAOhaus](/tools/daohaus)
-DAOhaus is a powerful platform for decentralized autonomous organizations (DAOs). It offers features like:
-- Proposal management
-- Member voting
 
-Operators can leverage DAOhaus to streamline decision-making processes.
+DAOhaus is a powerful platform for decentralized autonomous organizations (DAOs). It offers features like proposal management and member voting. Operators can leverage DAOhaus to streamline decision-making processes.
 
 ### [Gitcoin Grants Stack](/tools/grantStack)
-Gitcoin Grants Stack is a decentralized, smart contract-enabled solution for managing grants programs. Key aspects include:
-- Manager: For creating and managing grant programs
-- Explorer: To discover and support projects
-- Builder: Allows project owners to create profiles and manage applications.
 
-While the Gitcoin Gtant STack is a relatively new product, Gitcoin Grants is time-tested trust in grant programs and  an innovative Quadratic Voting system. 
+Gitcoin Grants Stack is a decentralized, smart contract-enabled solution for managing grants programs.
+
+While the Gitcoin Grant Stack is a relatively new product, Gitcoin Grants is a trusted source of grants tooling and services. Fun fact: Grant Ships was built on the Gitcoin Allo Protocol.
 
 ### [Jokerace](/tools/jokerace)
-Jokerace offers a novel approach to community-driven funding, perfectly complementing the Grant Ship model. With its emphasis on decentralized, bottom-up governance, Jokerace enables community members to propose, vote on, and manage grant initiatives effectively. Discover how Jokerace revolutionizes funding processes and fosters a democratic and transparent environment within Grant Ships.
 
-- **Key Features**: Transparent Voting, Dynamic Fund Management, Community Rewards
-- **Integration**: Seamless integration with Grant Ships.
-- **Get Started**: Easy steps for proposal submission, community voting, and tracking project progress
+Jokerace offers a way to do TCR voting, which may come in handy if you want to run a contest or poll a community on a particular topic. Jokerace enables community members to make create and vote on any type of signal proposal.
 
-Explore more about how Jokerace can transform your Grant Ship experience.
+### [Awesome DAO Tools Repository](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
 
+For a more comprehensive list of tools available to DAOs, please check out this repo maintained by [Boilerrat](https://github.com/boilerrat) of the DAO Masons.
 
 ## Choosing the Right Tools
 
@@ -37,5 +28,4 @@ We encourage you to explore and experiment with these tools to determine what be
 
 ## Conclusion
 
-Your feedback is crucial! If you have suggestions for other tools that could be beneficial to the Grant Ships community, or if you have experiences to share about the tools listed, please let us know. This section is continuously evolving, just like our community.
-
+Your feedback is crucial! If you have suggestions for other tools that could be beneficial to the Grant Ships community, or if you have experiences to share about the tools listed, please let us know!
