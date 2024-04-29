@@ -39,10 +39,10 @@ We are also looking for great gaming projects to fund.
 
 - **Operator Applications Open**: 3/29 - 4/3 @ 3EST (6 days)
 - **Operator Onboarding**: 3/30 - 4/14 (12 days)
-- **Round 1 Allocation**: 4/15 - 5/12 (28 days)
-- **Round 1 Voting**: 5/13 - 5/26 (14 days)
-- **Round 2 Allocation**: 5/27 - 6/23 (28 days)
-- **Round 2 Voting**: 6/24-7/7 (14 days)
+- **Round 1 Allocation**: 4/22 - 5/26 (35 days)
+- **Round 1 Voting**: 5/27 - 6/9 (14 days)
+- **Round 2 Allocation**: 6/10 - 6/30 (28 days)
+- **Round 2 Voting**: 7/1-7/14 (14 days)
 
 ## 3 Ships, 2 Rounds
 
