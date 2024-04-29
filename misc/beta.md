@@ -2,29 +2,13 @@
 
 We're hosting a 90,000 [ARB](https://www.coinbase.com/price/arbitrum) Grant Ships beta funding round.
 
-Operator applications are open until April 3rd at 3pm EDT.
+~~Operator applications are open until April 3rd at 3pm EDT.~~
 
-We're looking for 3 crews (teams or individuals) to operate Grant Ships for the beta launch. Do you have what it takes to allocate funds effectively?
+### Operators are Selected. See them here: https://app.grantships.fun/ships
 
-[Operator Application Form](https://app.grantships.fun/create-ship)
-
-We are also looking for great gaming projects to fund.
+Applications are open for Gaming on Arbitrum projects!
 
 [Project Application Form](https://app.grantships.fun/create-project)
-
-## Application Guidelines for Operators
-
-1. Make sure you emphasize how you will meet the **Core Objective** of this round (Gaming in Arbitrum)
-2. Set your Management Fee to 10%. All operators will receive 10%.
-3. The application has 2 steps, make sure you complete both steps!
-
-### Gaming in Arbitrum
-
-#### The core objective of this round is to encourage **innovation in gaming** on the Arbitrum network. Grant recipients are tasked with completing a project within the following categories:
-
-- **Developing** a new feature for an existing game that introduces a unique game mechanic and incorporates on-chain actions, or
-- **Creating** a self-contained game with an engaging game loop and essential blockchain integration, or
-- **Producing** tooling, programs or other deliverables that have a tangible and measurable impact on the Arbitrum gaming ecosystem.
 
 ## Round Overview
 
@@ -43,6 +27,14 @@ We are also looking for great gaming projects to fund.
 - **Round 1 Voting**: 5/27 - 6/9 (14 days)
 - **Round 2 Allocation**: 6/10 - 6/30 (28 days)
 - **Round 2 Voting**: 7/1-7/14 (14 days)
+
+### Gaming in Arbitrum
+
+#### The core objective of this round is to encourage **innovation in gaming** on the Arbitrum network. Grant recipients are tasked with completing a project within the following categories:
+
+- **Developing** a new feature for an existing game that introduces a unique game mechanic and incorporates on-chain actions, or
+- **Creating** a self-contained game with an engaging game loop and essential blockchain integration, or
+- **Producing** tooling, programs or other deliverables that have a tangible and measurable impact on the Arbitrum gaming ecosystem.
 
 ## 3 Ships, 2 Rounds
 
@@ -64,6 +56,6 @@ For the first round, each ship will have 15,000 ARB allocated to them. 10% of th
 
 ## Got What it Takes?
 
-Applications are open through April 3rd at 3pm EDT.
+Applications are open!
 
 ### [Apply now!](https://app.grantships.fun)
