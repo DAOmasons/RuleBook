@@ -72,6 +72,7 @@ export default defineConfig({
           { text: "Team", link: "/misc/team" },
           { text: "Grant Ships Links", link: "/misc/links" },
           { text: "Compliance Policy", link: "/misc/compliance" },
+          { text: "Making an Attestation", link: "/misc/attestation" },
         ],
       },
       {
