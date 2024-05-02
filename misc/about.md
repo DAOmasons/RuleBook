@@ -1,12 +1,16 @@
 # Grant Ships: An Evolutionary Grants Framework for the Arbitrum Ecosystem
 
-TLDR: Grant Ships allows multiple teams (aka Grant Ships) to do grant allocation under one DAO's umbrella. The sponsor DAO puts grant funds into one pile, then it is split among the multiple teams.
+TLDR: The Grant Ships platform allows multiple teams (aka Grant Ships) to do grant allocation under one DAO's umbrella. The sponsor DAO puts grant funds into one fund, then it is split among the multiple teams.
 
-The Grant Ships platform allows those teams to accept applications and make allocations to chosen recipients.Every transaction recorded on chain and displayed in the app feed.
+The Grant Ships platform allows each Grant Ship operator to accept applications and make allocations to selected recipients. Every transaction is recorded on chain and displayed in the application's feed.
 
-At the end of a funding round, a TCR DAO vote is held. In the following round, funding levels for each Ship is proportional to the amount of votes received.
+At the end of a funding round, a TCR DAO vote is held. In the following round, relative funding levels for each Ship are proportional to the amount of votes received.
 
-Among other features, the game provides an anti-capture mechanism through Hats Protocol, allowing permissions to be revoked and reassigned by the sponsor DAO if needed.
+Key Features:
+
+- Anti-capture protection through revokable roles using Hats Protocol, allowing sponsor DAO to retain control over funds even while delegating authority to distribute funds.
+- Multi-step allocation process involving Operators and Game Facilitators, using Gitcoin's Allo protocol allocation strategy model under the hood.
+- No direct access to funds by any one actor within the game. All distributions are made through the game, according to rules, and recorded and published onchain in a transparent manner.
 
 ### We appeared on Green Pill and explained the whole thing:
 
@@ -16,7 +20,7 @@ Among other features, the game provides an anti-capture mechanism through Hats P
 
 ## The Grant Ships Concept
 
-Grant Ships is more than just a funding mechanism; it's a strategic game that brings life to pluralistic, decentralized governance. By gamifying the process of grant distribution, it seeks to enhance participation, effectiveness, and inclusivity within the Arbitrum ecosystem.
+Grant Ships is more than just a funding mechanism; it's a strategic game that brings life to pluralistic, decentralized governance. By gamifying the process of grant distribution, it seeks to enhance participation, effectiveness, and inclusivity.
 
 ## Roles in Grant Ships
 
@@ -38,7 +42,7 @@ Teams selected to operate a Grant Ship, responsible for stewarding funds, design
 
 ## The Game Mechanics
 
-From the setup phase to the allocation of funds, Grant Ships operates as an engaging game. Participants undergo a process of proposal submission, community voting, and transparent fund allocation, all driven by the collective decision-making of the Arbitrum community.
+From the setup phase to the allocation of funds, Grant Ships operates as an engaging game. Participants undergo a process of proposal submission, community voting, and transparent fund allocation, all driven by DAO-powered collective decision-making.
 
 ## Community and Decentralization
 
@@ -50,4 +54,4 @@ Participation in Grant Ships offers numerous benefits, including a democratic in
 
 ## Conclusion
 
-Grant Ships stands as a beacon of innovation in decentralized grant allocation. It's not just a platform but a movement towards a more equitable, participatory, and effective model of community-driven funding.
+Grant Ships stands for a transparent, participatory and decentralized grant allocation.

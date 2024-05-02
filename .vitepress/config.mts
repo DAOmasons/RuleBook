@@ -12,7 +12,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "About", link: "/misc/about" },
       { text: "How To Play", link: "/how-to-play/" },
-      { text: "Sign Up", link: "https://forms.grantships.fun" },
+      { text: "App", link: "https://app.grantships.fun" },
     ],
 
     sidebar: [
