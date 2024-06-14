@@ -25,9 +25,9 @@ Applications are open for Gaming on Arbitrum projects!
 - **Operator Onboarding**: 3/30 - 4/14 (12 days)
 - **Round 1 Allocation**: 4/22 - 6/2 (42 days)
 - **Round 1 Voting Setup**: 6/3 - 6/9 (7 days)
-- **Round 1 Voting**: 6/10 - 6/16 (7 days)
-- **Round 2 Allocation**: 6/17 - 7/13 (28 days)
-- **Round 2 Voting**: 7/14 - 7/27 (28 days)
+- **Round 1 Voting**: 6/12 - 6/18 (7 days)
+- **Round 2 Allocation**: 6/19 - 7/15 (28 days)
+- **Round 2 Voting**: 7/16 - 7/29 (28 days)
 
 ### Gaming in Arbitrum
 
