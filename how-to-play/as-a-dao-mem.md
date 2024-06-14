@@ -12,6 +12,8 @@ As an Arbitrum Delegated Voter, your vote shapes the Grant Ships program.
 
 ### How it works
 
+![](/public/pie_chart.jpg)
+
 After each funding round, Voters have an opportunity to vote on their favorite Grant Ships.
 
 Ships that receive **more votes** are trusted with **more funds** in future rounds.
@@ -22,6 +24,8 @@ Voters also have the ability to revoke permissions from Grant Ships and Game Fac
 
 In this way the Arbitrum DAO community shapes the Grant Ships program, determining who is given more resources, and who should be replaced.
 
+![](/public/coin_stacks.jpg)
+
 ### Coming Soon
 
-During the [Beta Round](/misc/beta.html), voters will have an important role to play between rounds 1 and 2.
+During the [Beta Round](/misc/beta.html), voters have an important role to play between rounds 1 and 2.
