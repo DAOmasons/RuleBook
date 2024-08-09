@@ -21,10 +21,6 @@ export default defineConfig({
         link: "/about/about",
         items: [
           {
-            text: "Overview",
-            link: "/about/overview",
-          },
-          {
             text: "Pilot Funding Round",
             link: "/about/pilot",
           },
