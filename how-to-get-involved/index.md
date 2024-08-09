@@ -1,6 +1,6 @@
 # How to Get Involved
 
-Welcome to the "How to Get Involved" section of the Grant Ship game! This area is dedicated to guiding new and interested individuals through the process of becoming an active part of our community. Whether you're looking to apply as a participant or seeking to sharpen your skills through operator training, you'll find all the necessary resources here.
+Whether you're looking to apply as a participant or seeking to sharpen your skills through operator training, you'll find all the necessary resources here.
 
 ## Sections Overview
 

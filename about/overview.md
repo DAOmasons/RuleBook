@@ -8,9 +8,9 @@ tags: Grant Ships
 
 ### **Abstract**
 
-Grant Ships is an 'evolutionary grants game' where Grant Ships (grant-giving subDAOs) compete to best deploy capital in the Arbitrum ecosystem.
+Grant Ships is an 'evolutionary grants game' where Grant Ships (grant-giving subDAOs) compete to best deploy capital.
 
-The goal is to continually improve how we allocate capital by learning which Ship models are most effective, who the talented actors are, and which allocations resonate with Arbitrum voters.
+The goal is to continually improve how we allocate capital by learning which Ship models are most effective, who the talented actors are, and which allocations resonate with voters.
 
 ### How it works
 
@@ -22,7 +22,7 @@ The Game Facilitator Team facilitates the game and finalizes funds transfers to 
 
 At the end of each funding round, each Grant Ship produces a Portfolio Report that includes all of their distributions and disclosures.
 
-The Arbitrum community then ranks the Grant Ships through a weighted token vote. In the following funding round, high-performing Ships receive a larger portion of the funding pool, and lower-performing Ships receive less.
+The voting community then ranks the Grant Ships through a weighted token vote. In the following funding round, high-performing Ships receive a larger portion of the funding pool, and lower-performing Ships receive less.
 
 Ships that fail to meet a minimum threshold of votes may be replaced by new operators looking to enter the game.
 
@@ -41,7 +41,7 @@ Each Grant Ship is incentivized to monitor, document, and report on progress mad
 This game is a spectator sport, designed to be fun to play and watch. This is necessary to ensure the ecosystem stays involved and provides the right incentives and signals.
 
 **Adaptive Approach**  
-Through token-weighted voting, Arbitrum DAO creates the selective pressure that forces Grant Ships to evolve. As Arbitrum evolves, so will its grants program.
+Through token-weighted voting, voters create the selective pressure that forces Grant Ships to evolve. As the community evolves, so will its grants program.
 
 ## Final Thoughts
 

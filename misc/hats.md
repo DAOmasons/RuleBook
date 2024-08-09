@@ -4,6 +4,6 @@ Grant Ships has integrated Hats Protocol for onchain, revokable permissions. Tha
 
 ![](/public/hats.png)
 
-If a Game Faciliator or Ship Operator needs to be replaced for any reason, you can remove or reassign their Hat. This Top Hat permission can be given to an individual, DAO or a multisig - whatever works best for your use case.
+If a Game Facilitator or Ship Operator needs to be replaced for any reason, you can remove or reassign their Hat. This Top Hat permission can be given to an individual, DAO or a multisig - whatever works best for your use case.
 
 ### [Learn more about Hats Protocol](https://docs.hatsprotocol.xyz/)

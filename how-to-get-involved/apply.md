@@ -1,15 +1,18 @@
 # Join the Grant Ship Community
 
-Grant Ships offers a unique opportunity that enables players to assume the role of Ship Operators, forming grant-giving sub-DAOs and engaging in competitive and collaborative fund distribution.
+With Grant Ships, You have the unique opportunity to role of a Ship Operator. You will compete with and against other Ship Operators to best distribute funds within a funding domain.
 
-**Get Started as a Ship Operator**
-To participate, please visit [the Grant Ships app](https://app.grantships.fun) and complete the registration form. This will initiate your journey as a Ship Operator, allowing you to contribute to and influence the evolving landscape of decentralized grant distribution.
+### **Getting Started as a Ship Operator**
 
-Joining the "Grant Ship" community provides an opportunity to be at the forefront of innovative DAO governance and fund allocation strategies. We welcome your participation and look forward to your contributions.
+To participate as a Ship Operator, there must be an open funding round accepting applications. You can check if we are currently running a round that is open for Operator applications at [app.grantships.fun](https://app.grantships.fun).
 
-## A 2 Step Process
+### Starting a New Grant Ships Game
 
-Note that the application process is 2 steps! The first step creates your Allo profile (we use Allo under the hood) but your application is not complete until you complete the 2nd step, which brings your application to the Game Facilitators for review.
+If we aren't running an open round, then we can help you petition your DAO to use Grant Ships for their grants program. To get this process started, reach out to us on [Telegram](https://t.me/daomasons) and let us know you'd like help getting your DAO started using Grant Ships.
+
+## The Operator Application
+
+The application process is 2 steps! The first step creates your Allo profile (we use Allo under the hood) but your application is not complete until you finish the 2nd step, which brings your application to the Game Facilitators for review.
 
 ### Step 1
 
@@ -18,3 +21,5 @@ Note that the application process is 2 steps! The first step creates your Allo p
 ### Step 2
 
 ![](/public/ApplicationScreen2.png)
+
+Visit [app.grantships.fun](https://app.grantships.fun) to see our current funding rounds.

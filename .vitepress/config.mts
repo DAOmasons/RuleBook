@@ -18,15 +18,19 @@ export default defineConfig({
     sidebar: [
       {
         text: "About Grant Ships",
-        link: "/misc/about",
+        link: "/about/about",
         items: [
           {
             text: "Overview",
-            link: "/misc/overview",
+            link: "/about/overview",
           },
           {
-            text: "Beta Round",
-            link: "/misc/beta",
+            text: "Pilot Funding Round",
+            link: "/about/beta",
+          },
+          {
+            text: "Voting",
+            link: "/about/voting",
           },
         ],
       },
@@ -35,7 +39,7 @@ export default defineConfig({
         link: "/how-to-play/",
         items: [
           {
-            text: "Delegated Arbitrum Voters",
+            text: "Voters",
             link: "how-to-play/as-a-dao-mem",
           },
           { text: "Grant Ship Operators", link: "how-to-play/as-a-gs-op" },
