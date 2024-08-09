@@ -94,7 +94,7 @@ export default defineConfig({
         link: "/tech/",
         items: [
           { text: "Whitepaper", link: "/tech/whitepaper" },
-          { text: "Request Registry Contract", link: "/tech/RegistryReadme" },
+          { text: "Github", link: "https://github.com/DAOmasons" },
         ],
       },
     ],
