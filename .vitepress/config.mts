@@ -26,7 +26,7 @@ export default defineConfig({
           },
           {
             text: "Pilot Funding Round",
-            link: "/about/beta",
+            link: "/about/pilot",
           },
           {
             text: "Voting",
@@ -40,7 +40,7 @@ export default defineConfig({
         items: [
           {
             text: "Voters",
-            link: "how-to-play/as-a-dao-mem",
+            link: "how-to-play/as-a-voter",
           },
           { text: "Grant Ship Operators", link: "how-to-play/as-a-gs-op" },
           { text: "Project Managers", link: "how-to-play/as-a-project" },

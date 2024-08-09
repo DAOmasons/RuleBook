@@ -16,11 +16,12 @@ Ship "The Jade Shadow" was eliminated in this round.
 
 ## Community Vote
 
-The Community Vote followed the Arbitrum vote, and was between the 2 remaining Ships.
+In Round 1 Community Vote followed the Arbitrum vote, and was between the 2 remaining Ships.
+In Round 2 they will be held concurrently.
 
 We airdropped Grant Ships Voting Tokens (GSVT) totaling 103,637 to grant recipients, ship operators and a selection of community judges.
 
-### How we Apportioned GSVT
+### How we Apportioned GSVT in Round 1
 
 GSVT tokens were apportioned as follows:
 | Voter | Count | % |
@@ -62,62 +63,100 @@ The active voters were:
 |David|3636|Judge|
 |Mathilda|3636|Judge|
 
-### Voting Bonus
+### Round 2 Voting Bonuses
 
 To encourage voting activity, we will be airdropping additional voting power to those who participated in the previous round according to the following rubrik.
 
-We've created 5 levels of bonus for various in-game activities.
+We've created 5 levels of reward for various in-game activities.
 
 | Level | Bonus | Activities                                                                         |
 | ----- | ----- | ---------------------------------------------------------------------------------- |
 | 1     | 100   | Weekly Update, Project Referral w/Completed Profile                                |
-| 2     | 200   | Best Weekly Update, Completed Profile (after 8/16), Verified Bug Report            |
+| 2     | 200   | Exceptional Weekly Update, Completed Profile (after 8/16), Verified Bug Report     |
 | 3     | 400   | Review a Project, Completed Profile (before 8/16), Referred Project receives Grant |
 | 4     | 800   | Review a Project & Share, Review a Ship & Share                                    |
-| 5     | 1600  | Vote, Publish a Thoughtful Editorial (text or video)                               |
+| 5     | 1600  | Vote, Publish a Thoughtful Editorial (text or video), Exceptional Review           |
 | -5    | -1600 | Fail to Vote                                                                       |
 
 - At the end of Round 2, these GSVT will be added to voter totals.
 - All bonuses are subject to Facilitator view for quality and to prevent sybil, spoofing, etc.
 - Individual voting totals are relative and may be prorated to keep total GSVT airdrop at 100,000 GSVT or similar.
 
-### Editorial Guideline
+## Activity Rewards for Round 2
 
-To encourage the community to create thoughtful analysis and review of the activities within the game round, we offer a level 5 reward for publishing a thoughtful editorial. This can be video or text, but should be a review and analysis of the current game round in your own words. Editorials must be published on a public blog-like site and shared on Twitter.
+### Publish a Thoughtful Editorial
+
+To encourage the community to create thoughtful analysis and review of the activities within the current game round, we offer a level 5 reward for publishing a thoughtful editorial. This can be video or text, but should be a review and analysis of the current game round in your own words. Editorials must be published on a public blog-like site and shared on Twitter.
+
+### Weekly in-app Project or Ship Update
+
+A level 1 reward will be given each week to any ship or project that makes a meaningful update on their Grant Ships page.
+
+> Game Facilitators may select a "Best Post" each week, judged by quality and usefulness to the community audience. A level 2 reward will be given to selected posts.
+
+### Verified Bug Report
+
+A level 2 reward will be given to anybody who identifies and reports a bug once it has been verified by a developer. Bugs can be reported in the [Grant Ships telegram](https://t.me/grantships).
+
+### Project Referral
+
+A level 1 reward will be given if you refer a project to Grant Ships and they fill out their profile. To qualify, referred project should mention you in the Grant Ships telegram.
+
+### Referred Project Receives a Grant
+
+If a project you referred receives a grant, you will receive a level 3 reward.
+
+### Complete Project Profile
+
+Complete your project profile before Aug 16 for a level 3 reward. Complete after Aug 16 for level 2.
+
+Completed profiles include:
+
+- Banner, profile image, playable link
+- 4 carousel items with at least 1 video
+- 1 Intro Update - talk about the project, what you're building, use Rich Text heading feature and appropriate formatting. Include a link or image (can double as your weekly update)
+- 3+ social links (Email, Discord, TG, Twitter, etc)
+
+### Complete Ship Profile
+
+Complete your Ship profile before Aug 16 for a level 3 reward. Complete after Aug 16 for level 2.
+
+Completed profiles include:
+
+- Beacon invitation filled out for project applications
+- 1 Intro Update - talk about your Ship and introduce yourself to the community.
+- 3+ forms of contact info provided (Email, Discord, TG, Twitter, etc)
+
+### Write a Project Review
+
+We have plans to implement a review system into the app.
+
+Until then to qualify for this, you can post an update on your feed that reviews another game. This will help us gather requirements for the review feature.
+
+Write the review: Level 3
+Write the review and share on Twitter: Level 4
+
+> Reviews will be screened by Game Facilitators for quality and completeness before being rewarded any tokens. Put some effort into it and youo'll be fine
+> Level 5 bonus may be given to an exceptional review shared on social media
+
+### Not Voting (Slash)
+
+Voting power will be slashed due to lack of participation. If you don't or didn't vote, you will have less voting power in the following round. This slash is equal to -1 level 5 reward.
+
+### Voting
+
+Pretty simple - participate in the end of round vote when it comes up.
+
+## Future Community Features
 
 ### Badges
 
-This system will lead into a badge system, where your profile will be decorated with badges representing your accomplishments, with each badge giving a boost in voting power going forward.
-
-### Slashes
-
-Those who were airdropped last season but did not participate will be slashed with a negative level 5 bonus. Those who do not participate in the round 2 vote will be slashed the same amount for round 3.
+This system will lead into a badge system, where your profile will be decorated with badges representing your accomplishments, with each badge giving a boost in voting power going forward. We hope to have many of these badges automated or awarded by the community, rather than relying on Game Facilitator discernment and attention.
 
 ### Carrying forward
 
-These values will carry forward into future voting rounds, and the bonuses will update proportional to the total voting pool in each round.
+Voting power will carry forward into future voting rounds, and the bonuses will update proportional to the total voting pool in each round.
 
-### Activity Rewards
+### Experimental
 
-We will be rewarding in-game activity during round 2 with additional voting power. These include:
-
-- Posting an in-app project or ship update each week
-- Being selected as "Best Post" by Game Facilitators (weekly)
-  - Judged on quality and usefulness to the community audience
-- Submit a bug and have it verified
-- Refer a project to Grant Ships, awarded when they fill out their project profile completely
-  - Additional bonus if referred project receives a grant
-  - To get award, project should mention you in the Grant Ships [Telegram channel](https://t.me/grantships)
-- Project Profile filed out completely:
-  - Banner, image, playable link,
-  - 6 carousel items w/1 at least 1 video
-  - 1 Intro Update - talk about the project, what you're building, use Rich Text heading feature and appropriate formatting. Include a link or image.
-  - 3+ social links (Email, Discord, TG, Twitter, etc)
-- Ship Profile filled out completely:
-  - Beacon invitation filled out for project applications
-  - 1 Intro Update - talk about your Ship and introduce yourself to the community.
-  - 3+ forms of contact info provided (Email, Discord, TG, Twitter, etc)
-- Write a Project Review
-  - Use the +Review feature to review another project.
-  - These will be screened by Game Facilitators for quality before being awarded any tokens.
-  - Additional Bonus may be given for exceptional reviews and for sharing reviews on social media
+This is an experimental system with a rich design space. We'd like to hear your feedback. Please reach out on the [Grant Ships telegram](https://t.me/grantships)

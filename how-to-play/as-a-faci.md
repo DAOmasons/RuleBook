@@ -23,4 +23,4 @@ They are also responsible for administrative tasks related to setting up communi
 
 ### Coming Soon
 
-For the beta round, the DAO Masons team will be operating as Game Facilitators. In the future this will be an elected position.
+For the pilot round, the DAO Masons team will be operating as Game Facilitators. In the future this will be an elected position.

@@ -4,29 +4,28 @@ Whether you're a Delegated Arbitrum Voter, a Game Facilitator, a Project Manager
 
 ## Sections Overview
 
-### [Delegated Arbitrum Voters](/how-to-play/as-a-dao-mem)
-
-Understand your vital role in shaping the Grant Ships program. Learn how to:
-
-- Vote in various phases
-- Influence resource allocation
-- Maintain the integrity of the DAO
-
 ### [Grant Ship Operators](/how-to-play/as-a-gs-op)
 
-Learn about your stewardship over the funds and the grant-giving process. You'll be:
+You are the steward of your own grants program. Receive funds and allocate it wisely.
 
-- Signaling allocation intents
-- Managing grant recipient details
-- Ensuring progress disclosure
+- Screening projects and giving grants
+- Updating voters on how your program is performing
 
-### [Project Managers/Grantees](/how-to-play/as-a-project)
+### [Project Grantees](/how-to-play/as-a-project)
 
-Find out how to engage with Grant Ships and the wider community. Responsibilities:
+Your job is to apply for funding and build projects that fall within the [funding domain](/about/pilot.html).
 
 - Applying and engaging with Grant Ships
 - Delivering project progress
 - Updating on project progress
+
+### [Voters](/how-to-play/as-a-voter)
+
+You decide which Ship Operators will receive additional funds in future rounds.
+
+- Vote to elect new Grant Ship Operators
+- Vote to reward or punish Ship Operators based on their performance
+- Influence Ship Operator funding levels
 
 ### [Game Facilitators](/how-to-play/as-a-faci)
 
@@ -37,7 +36,5 @@ Discover your role in managing the Grant Ships game. Key duties include:
 - Monitoring rule adherence
 
 ## Game Flow
-
-For the beta round, the order of operations looks something like this:
 
 ![](/public/grantships_swimlanes.png)
