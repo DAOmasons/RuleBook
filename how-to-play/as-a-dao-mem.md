@@ -28,4 +28,4 @@ In this way the Arbitrum DAO community shapes the Grant Ships program, determini
 
 ### Coming Soon
 
-During the [Beta Round](/misc/beta.html), voters have an important role to play between rounds 1 and 2.
+During the [Beta Round](/about/beta.html), voters have an important role to play between rounds 1 and 2.
