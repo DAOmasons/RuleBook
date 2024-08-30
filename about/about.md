@@ -1,6 +1,6 @@
 # An Evolutionary Grants Framework
 
-Grant Ships is like competitive Kickstarter + a community powered venture incubator.
+Grant Ships is an "evolutionary grants framework". That means we let grant programs innovate, then assess them and encourage them to grow and involve.
 
 Ship Operators are given funds to distribute to promising projects in public. At the end of each voting round, voters decide if Ship Operators should "get more cash" or "get more slashed".
 
@@ -8,6 +8,7 @@ Ship Operators are given funds to distribute to promising projects in public. At
 
 - **A Turn-key Grants Program for your DAO:** Your community supplies the funds and elects the Ship Operators, Grant Ships platform handles the rest.
 - **DAO Powered**: Your DAO keeps control over funds even while giving permission to Ship Operators to disribute funds to promising projects. Voters impact the outcome of each round.
+- **Public Process**: From grant application to milestone delivery, every activity is onchain and displayed for public eyes. No more mystery back room deals. All outcomes are visible.
 - **Checked & Balanced:** Multiple stakeholders are involved in every transaction, providing checks and balances before funds are distributed.
 - **Protected Funds:** No direct access to funds by any one actor within the game. All distributions are made through smart contracts and recorded and published onchain in a transparent manner.
 
