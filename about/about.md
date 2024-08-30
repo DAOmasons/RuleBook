@@ -1,8 +1,8 @@
 # An Evolutionary Grants Framework
 
-Grant Ships is an "evolutionary grants framework". That means we let grant programs innovate, then assess them and encourage them to grow and involve.
+Grant Ships is an "evolutionary grants framework". That means we let grant programs innovate in public, then let the public assess them and decide their future funding levels, encouraging them to stay accountable, grow and evolve.
 
-Ship Operators are given funds to distribute to promising projects in public. At the end of each voting round, voters decide if Ship Operators should "get more cash" or "get more slashed".
+![](/public/evolve_flywheel.png)
 
 ### Key Features:
 
