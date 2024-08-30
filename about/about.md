@@ -6,8 +6,8 @@ Grant Ships is an "evolutionary grants framework". That means we let grant progr
 
 ### Key Features:
 
-- **A Turn-key Grants Program for your DAO:** Your community supplies the funds and elects the Ship Operators, Grant Ships platform handles the rest.
-- **DAO Powered**: Your DAO keeps control over funds even while giving permission to Ship Operators to disribute funds to promising projects. Voters impact the outcome of each round.
+- **A Turn-key Grants Program for your DAO:** Your community supplies the funds and elects the Ship Operators -- The Grant Ships platform handles the rest.
+- **DAO Powered**: Your DAO keeps control over funds even while giving permission to Ship Operators to distribute funds to promising projects. Voters impact the outcome of each round.
 - **Public Process**: From grant application to milestone delivery, every activity is onchain and displayed for public eyes. No more mystery back room deals. All outcomes are visible.
 - **Checked & Balanced:** Multiple stakeholders are involved in every transaction, providing checks and balances before funds are distributed.
 - **Protected Funds:** No direct access to funds by any one actor within the game. All distributions are made through smart contracts and recorded and published onchain in a transparent manner.
