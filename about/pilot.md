@@ -1,14 +1,23 @@
 # Grant Ships: Gaming on Arbitrum
 
-(Updated Aug 1 2024)
+(Updated October 16 2024)
 
-### Pilot Round 2 is Open through Aug 31
+Round 2 is complete! 90K ARB has now been distributed in developer grants and operator compensation to support _Web3 Gaming on Arbitrum_. Congrats everybody!
 
-Round 2 of our Pilot "Gaming on Arbitrum" funding round has launched.
+We are adding some new features including better support for badges & dual-token voting before we launch the round two Arbitrum DAO (ARB) and Community (WARP) votes.
 
-Two Ships are distributing 41,730 [ARB](https://coinmarketcap.com/currencies/arbitrum/) to "Gaming on Arbitrum" projects
+If you plan to vote with ARB, make sure you delegate your ARB to yourself! Guide: How to delegate ARB.
 
-### The Ships
+WARP will be airdropped along with badges before the community vote begins.
+
+Check out our video spotlights for more info:
+Pilot Overview: Grant Ships Pilot Overview
+Feature Spotlight: Project Profiles and Grant Applications
+Feature Spotlight: Dual-token Voting & Badges
+
+Stay tuned for Round 2 vote launch announcement!
+
+### Round 2 Ships
 
 - [Blue Moon Ship](https://app.grantships.fun/ship/0xaC9E40E4281ce18Fc27e189947528F2057c80455)
 
@@ -18,7 +27,7 @@ Two Ships are distributing 41,730 [ARB](https://coinmarketcap.com/currencies/arb
 
 **Round 1:** Complete! See the [Pilot Retrospective](https://www.grantships.fun/pilotretro.pdf).
 
-**Round 2:** [Active now](https://app.grantships.fun) through August 31
+**Round 2:** Funding Complete! Vote coming soon!
 
 ### Funding Domain: “Gaming on Arbitrum”
 

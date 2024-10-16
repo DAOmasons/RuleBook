@@ -14,23 +14,23 @@ The archived results can be viewed here: [Archived Arbitrum DAO Vote](https://ro
 
 Ship "The Jade Shadow" was eliminated in this round.
 
-## Community Vote - Introducing Warp
+## Community Vote - Introducing WARP
 
-> "Don't you worry, this old ship'll give you fifty five more laps around the 'alaxy if you treat her right. So long as those back home keep mining Warp, we'll be just fine."
+> "Don't you worry, this old ship'll give you fifty five more laps around the 'alaxy if you treat her right. So long as those back home keep mining WARP, we'll be just fine."
 >
 > ~ Late Captain of the Jade Shadow
 
-We're renaming GSVT to call the voting token "Warp". In game terms, Warp is used to propel ships from afar. So long as someone commits enough Warp to a particular ship, it can keep flying, complete its funding missions and make it back home.
+We're renaming GSVT to call the voting token "WARP". In game terms, WARP is used to propel ships from afar. So long as someone commits enough WARP to a particular ship, it can keep flying, complete its funding missions and make it back home.
 
 In Round 1 the Community Vote followed the Arbitrum vote. One Ship (The Jade Shadow) was eliminated by the Arbitrum vote, and the Community vote was held for the 2 remaining ships.
 
 In Round 2 these votes will be held concurrently.
 
-We airdropped Warp totaling 103,637 to grant recipients, ship operators and a selection of community judges.
+We airdropped WARP totaling 103,637 to grant recipients, ship operators and a selection of community judges.
 
-### How we Apportioned Warp in Round 1
+### How we Apportioned WARP in Round 1
 
-Warp tokens were apportioned as follows:
+WARP tokens were apportioned as follows:
 | Voter | Count | % |
 | -------- | -------- | -------- |
 |Ships|3|20%|
@@ -39,7 +39,7 @@ Warp tokens were apportioned as follows:
 
 ### Project Voting Power
 
-For the 40% apportioned to projects, each project was given a base amount of Warp for having received a grant, plus an amount based on the funding they received across all ships and portion of milestones they completed.
+For the 40% apportioned to projects, each project was given a base amount of WARP for having received a grant, plus an amount based on the funding they received across all ships and portion of milestones they completed.
 
 ### Ships and Judges
 
@@ -54,7 +54,7 @@ Of these 103,637 airdropped voting tokens, 64456 (62%) were used to vote.
 Of active voters, projects represented 51% of voting power, Ships 21% and Judges 28%.
 
 The active voters were:
-| Voter | Warp | Type |
+| Voter | WARP | Type |
 | -------- | -------- | -------- |
 |Monkey Empire|5506|Project|
 |Cloudlines|10031|Project|
@@ -70,9 +70,9 @@ The active voters were:
 |David|3636|Judge|
 |Mathilda|3636|Judge|
 
-### Round 2: Introducing Warp Mining
+### Round 2: Introducing WARP Mining
 
-We're introducing new ways for community members to earn Warp, so they can use it to support their favorite ships.
+We're introducing new ways for community members to earn WARP, so they can use it to support their favorite ships.
 
 We've created 5 levels of reward for various in-game activities.
 
@@ -85,9 +85,9 @@ We've created 5 levels of reward for various in-game activities.
 | 5     | 1600  | Vote, Publish a Thoughtful Editorial (text or video), Exceptional Review           |
 | -5    | -1600 | Fail to Vote                                                                       |
 
-- At the end of Round 2, this Warp will be added to voter totals.
+- At the end of Round 2, this WARP will be added to voter totals.
 - All bonuses are subject to Facilitator view for quality and to prevent sybil, spoofing, etc.
-- Individual voting totals are relative and may be prorated to keep total Warp airdrop at 100,000 Warp or similar.
+- Individual voting totals are relative and may be prorated to keep total WARP airdrop at 100,000 WARP or similar.
 
 ## Activity Rewards for Round 2
 
