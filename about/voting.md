@@ -1,4 +1,4 @@
-# The Voting Round
+# Voting Round 1
 
 After round 1 of the Pilot, we held a dual-token vote to determine the winning Ship Operators.
 
@@ -70,7 +70,9 @@ The active voters were:
 |David|3636|Judge|
 |Mathilda|3636|Judge|
 
-### Round 2: Introducing WARP Mining
+## Voting Round 2: Introducing WARP Mining
+
+Voting for round 2 is planned for November - any Arbitrum or WARP holder can participate.
 
 We're introducing new ways for community members to earn WARP, so they can use it to support their favorite ships.
 

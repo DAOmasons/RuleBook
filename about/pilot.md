@@ -39,6 +39,8 @@ Stay tuned for Round 2 vote launch announcement!
 
 ### Apply for Grants
 
-Project registration for "Gaming on Arbitrum" projects is open now! Register your project, then apply for funding from one or both of the active grant ships.
+Our funding rounds have ended, but we are ready to run another round if Arbitrum decides to fund more indie games.
+
+You can still **create a project profile** on Grant Ships and be ready for future rounds. Add photos, videos and playable game links and share with your community to promote your project!
 
 [Project Application Form](https://app.grantships.fun/projects)
