@@ -1,10 +1,10 @@
-# How To Play As A Project Manager
+# How To Play As A Project Owner
 
-Project Manager bring Projects that are (hopefully)selected and funded by Grant Ships.
+Project Owners bring Projects that are (hopefully) selected and funded by Grant Ships.
 
 ![](/public/grant_recipient.webp)
 
-<h3><img src="/public/project_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Project Managers</h3>
+<h3><img src="/public/project_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Project Owners</h3>
 
 - Responsible for describing their goals in a project application
 - Responsible for delivering on promises made in the application
@@ -14,12 +14,17 @@ Project Manager bring Projects that are (hopefully)selected and funded by Grant 
 
 > In the Grant Ships app, the <img src="/public/project_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> icon represents Project activity.
 
-The Grant Ships dashboard will supply you with the information you need to contact the funding Grant Ship and begin the application process.
+Once Ships are selected, they will be looking for Projects to fund.
 
-If a Grant Ship decides to fund your Project, you can expect to receive your funds after Game Facilitators have reviewed and approved the request and you've completed and submitted a milestone.
+Each Grants program is different, but Project Owners will have a way to apply to each Ship for funding.
 
-From then on, your relationship is with the Grant Ship crew and the Arbitrum DAO community. If you do well, it reflects well on your sponsoring Grant Ship. Expect your Grant Ship to be invested in your success.
+When a Ship approves a project, that project is ready to participate in that Ship's funding round.
 
-### Get Involved
+By following the Ship's rules and delivering on the project, the Project Owner can earn funding from that Ship.
 
-[Apply for Project Funding](https://app.grantships.fun/)
+Projects are free to apply to multiple Ships.
+
+### Examples:
+
+- The Gitcoin Grants round has each Ship taking project applications to receive matching funds.
+- During the pilot round, Arbitrum Gaming projects applied for grants directly from Ship Operators.

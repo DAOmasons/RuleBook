@@ -1,6 +1,6 @@
 # Sample Tools for Grant Ship Operators
 
-Welcome to the "Sample Tools" section. These are tools we've found useful for running decentralized governance operations.
+Welcome to the "Tools for DAOs" section. These are tools we've found useful for running decentralized governance operations.
 
 ## Tools Overview
 

@@ -7,7 +7,7 @@ A. We wanted to emphasize a pluralistic approach and avoid centralization of pow
 
 Together, these 3 groups have all the power and responsibility of a grants council but ensure a broader representation of perspectives and mitigate the risk of undue influence. However, because many of the relevant permissions and processes are explicitly defined, _we offload the governance overhead that a grant-giving organization would normally be responsible for designing_.
 
-Grant Ships are free to focus on transparently allocating funds. Facilitators make sure the rules are being followed. Members of Arbitrum DAO need only focus on voting on their favorite Grant Ships and checking power where needed.
+Grant Ships are free to focus on transparently allocating funds. Facilitators make sure the rules are being followed. Members of the community need only focus on voting on their favorite Grant Ships and checking power where needed.
 
 In essence, we aim to get the best of both worlds. We get the capture-resistance of a decentralized organization, as well as the efficiency and clarity of a traditional structure.
 :::
@@ -24,9 +24,9 @@ By providing this structure for a pluralistic approach, we relieve teams of mana
 ::: details Q. Why Hats Protocol?
 A. [Hats Protocol](https://www.hatsprotocol.xyz/) allows DAOs to create organizational structures that are capture resistant, transparent, and efficient.
 
-A Hats structure is a network of non-transferable ERC-1155 compatible tokens. They allow a DAO to build a ‘tree-shaped’ role and permission structure where each token can manage the tokens below it, but not above. Placing the ‘Top Hat’ on Arbitrum DAO ensures that the ultimate decision-making power is granted to the most decentralized player in this game.
+A Hats structure is a network of non-transferable ERC-1155 compatible tokens. They allow a DAO to build a ‘tree-shaped’ role and permission structure where each token can manage the tokens below it, but not above. Placing the ‘Top Hat’ on the DAO ensures that the ultimate decision-making power is granted to the most decentralized player in this game.
 
-By offloading operational authority and responsibility, Arbitrum DAO needn’t be burdened with every decision – only revoking authority when needed.
+By offloading operational authority and responsibility, the DAO needn’t be burdened with every decision – only revoking authority when needed.
 
 Hats also have the additional benefit of providing an easy map of all the key players involved. Facilitators, Grant Ships, and Grant Recipients could all be made visible in one live chart that sources purely from on-chain data.
 
@@ -88,7 +88,7 @@ A: The Facilitator Team is expected to take care of any non-automated administra
 ::: details Q: How is the Facilitator Team selected and held accountable?
 A: The initial facilitator team will be selected and trained by the game designers and implementers. Future Facilitator teams will be elected through a volunteer/nomination process followed by a Token Vote.
 
-Facilitators can be replaced at any time through an Arbitrum Token Vote. Facilitator Team attestations can be contested by any Grant Ship with a counter-attestation.
+Facilitators can be replaced at any time through DAO Vote. Facilitator Team attestations can be contested by any Grant Ship with a counter-attestation.
 :::
 
 ::: details Q: What is a Grant Round or Funding Round?
@@ -110,7 +110,7 @@ A: The Portfolio Report should include expenses, funding allocations, and grant 
 :::
 
 ::: details Q: How does the Ship Ranking Vote work?
-A: The Ship Ranking Vote is a weighted token vote that occurs at the end of each funding round, and is an opportunity for the Arbitrum community to rate and rank the performance of the active Grant Ships.
+A: The Ship Ranking Vote is a weighted token vote that occurs at the end of each funding round, and is an opportunity for the DAO to rate and rank the performance of the active Grant Ships.
 
 The Portfolio Reports from each Grant Ship are first made available for review. Then, each ARB holder has the opportunity to ‘weight’ the performance of each Grant Ship. They receive votes equal to their token count and can assign them across the Grant Ships as they see fit. The vote total received by each ship is divided by the total number of votes received by all ships. This number determines the proportion of the total funding pool they receive in the upcoming funding round.
 
@@ -119,7 +119,7 @@ Other Questions
 :::
 
 ::: details Q: How does the Common Funding Pool receive funds?
-A: Presumably these funds are being supplied by Arbitrum DAO itself, so whatever process they use to disburse funds would need to be used to fill the pool. The pool could also be opened to receive funds from other sources looking to support Arbitrum Grants. Ideally, this Common Funding Pool would be refreshed each funding round automatically.
+A: Presumably these funds are being supplied by the DAO itself, so whatever process they use to disburse funds would need to be used to fill the pool. The pool could also be opened to receive funds from other sources looking to support the DAO by supplying funds for grants. Ideally, this Common Funding Pool would be refreshed each funding round automatically.
 :::
 
 ::: details Q: What if this rulebook has a flaw or needs to be updated?

@@ -38,11 +38,7 @@ This game decomposes the traditional, centralized grants-giving committee patter
 Each Grant Ship is incentivized to monitor, document, and report on progress made by Grant Recipients. Grant Recipients are incentivized to produce results and disclose progress to receive more funding in the following funding round.
 
 **Voter Participation**  
-This game is a spectator sport, designed to be fun to play and watch. This is necessary to ensure the ecosystem stays involved and provides the right incentives and signals.
+This game is designed to be fun to play and watch. The ecosystem stays involved and provides incentives and signals.
 
 **Adaptive Approach**  
 Through token-weighted voting, voters create the selective pressure that forces Grant Ships to evolve. As the community evolves, so will its grants program.
-
-## Final Thoughts
-
-Grant Ships is being designed from the ground up and some of the details will have to change as we implement it. [Please read more in our FAQ](/faqs/grantShipsFAQ.md).

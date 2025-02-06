@@ -1,6 +1,6 @@
 # How To Play as a Voter
 
-As community member you get to vote on the performance of the Ship Operators. Your vote impacts how much funding each Ship will receive in the upcoming round.
+As a community member you get to vote on the performance of the Ship Operators. Your vote impacts how much funding each Ship will receive in the upcoming round.
 ![](/public/coin_stacks.jpg)
 
 ### Voters:
@@ -8,7 +8,7 @@ As community member you get to vote on the performance of the Ship Operators. Yo
 - Vote to elect Grant Ships in the setup phase
 - Vote after each Grant Ship allocation round
 
-> For the pilot round, Ship Operators were selected by Game Facilitators.
+> Some DAOs may choose to assign or elect judges to vote on Ship performance, or use a combination of community and judges.
 
 ### How Voting works
 
@@ -18,18 +18,8 @@ After each funding round, Voters have an opportunity to vote on their favorite G
 
 Ships that receive **more votes** are trusted with **more funds** in future rounds.
 
-Ships that don't get enough votes (e.g. 10% of total) may be jettisoned from their ship and replaced by a new Ship Operator.
+Each DAO decides how the voting process works, and how that translates to Ship rewards.
 
-In this way Voters shapes the grants program, determining who is given more resources, and who should be slashed, and who should be replaced.
+In this way Voters shape the grants program over time.
 
-> Each DAO can configure Grant Ships differently, for instance when determine minimum voting thresholds for Ships to continue
-
-<hr/>
-
-![](/public/dao_governance.webp)
-
-### Coming Soon
-
-During the [Pilot Round](/about/pilot.html), voters have an important role to play between rounds 1 and 2.
-
-Learn more about how [Community Voting](/about/voting) works.
+> Each DAO can configure Grant Ships differently but the basic principle is the same: **Voters decide which Grant Ships are performing the best.**
