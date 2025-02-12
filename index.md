@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: How To Play
-      link: /how-to-play/
+      link: /about/about.html
     - theme: alt
       text: GG23
       link: /about/gg23.html

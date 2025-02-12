@@ -1,4 +1,4 @@
-# An Evolutionary Grants Framework
+# Grant Ships: The Evolutionary Grants Framework
 
 Grant Ships is an "evolutionary grants framework" styled as a game, designed to refine and advance best practices within grants programs. The framework allows for competition, collaboration, and skill-sharing among grant programs.
 
