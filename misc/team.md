@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <script setup>
 import {
   VPTeamPage,
@@ -20,18 +21,9 @@ const members = [
     ]
   },
   {
-    avatar: '/boiler.png',
-    name: 'Chris (boiler)',
-    title: 'Project Manager',
-    links: [
-      { icon: 'github', link: 'https://github.com/boilerrat' },
-      { icon: 'x', link: 'https://twitter.com/boilerrat' }
-    ]
-  },
-  {
     avatar: '/jord.png',
     name: 'Jord',
-    title: 'Lead Engineer',
+    title: 'Product Lead',
     links: [
       { icon: 'github', link: 'https://github.com/jordanlesich' },
       { icon: 'x', link: 'https://twitter.com/JordanLesich' }
@@ -39,13 +31,22 @@ const members = [
   },
   {
     avatar: '/ui.png',
-    name: 'Matt (UI269)',
-    title: 'Product Manager',
+    name: 'Matt (UI369)',
+    title: 'Operations',
     links: [
       { icon: 'github', link: 'https://github.com/UI369' },
       { icon: 'x', link: 'https://twitter.com/UI_369' }
     ]
   },      
+    {
+    avatar: '/boiler.png',
+    name: 'Chris (boiler)',
+    title: 'Community Support',
+    links: [
+      { icon: 'github', link: 'https://github.com/boilerrat' },
+      { icon: 'x', link: 'https://twitter.com/boilerrat' }
+    ]
+  },
 ]
 </script>
 

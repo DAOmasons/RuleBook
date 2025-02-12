@@ -1,23 +1,20 @@
 # How To Play As A Game Facilitator
 
-Game Facilitators arbitrate the game rules and verify Grant Ship distributions.
+Game Facilitators administer the funding round and enforce rules.
 
-![](/public/game_facilitators.webp)
+<h3><img src="/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Game Facilitators</h3>
 
-<h3><img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Game Facilitators</h3>
-
-- Perform administrate and oversight tasks as determined by the hosting DAO
+- Perform administrative and oversight tasks as determined by the hosting community.
 
 ### How it Works
 
-> In the Grant Ships app, the <img src="/public/gamefacilitator_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> icon represents Game Facilitator activity.
+Game Facilitators have special permissions to affect the game flow within guidelines determined by the hosting community.
 
-Game Facilitators have special permissions to affect the game flow.
-
-These permissions (and constraints) are determined by the hosting DAO.
-
-They are also responsible for administrative tasks related to setting up community votes, initiate new funding rounds and keeping the community apprised of progress in the Grant Ships game.
+They are responsible for administrative tasks related to setting up the funding rounds, administering community votes, initiating new funding rounds and keeping the community apprised of progress and calls to action.
 
 ### For example:
 
-- During the Arbitrum Gaming pilot round, Game Facilitators reviewed and approved Ship applications, and unlocked funds for distribution by Ships to Projects.
+- During the Gitcoin Grants rounds, Game Facilitators administered a judge election and specified community token vote parameters.
+- During the Arbitrum pilot round, Game Facilitators reviewed and approved Ship applications, and unlocked funds for distribution by Ships to Projects.
+
+![](/game_facilitators.webp)

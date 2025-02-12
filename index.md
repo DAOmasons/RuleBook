@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: 'Grant Ships'
-  tagline: 'The Evolutionary Grants <s>Framework</s> Game'
+  tagline: 'The Evolutionary Grants Framework'
   image:
     src: /rocketgrad3.svg
     alt: GrantShips
@@ -14,7 +14,7 @@ hero:
       link: /how-to-play/
     - theme: alt
       text: GG23
-      link: https://gg23.grantships.com
+      link: /about/gg23.html
     - theme: alt
       text: Pilot App
       link: https://app.grantships.fun

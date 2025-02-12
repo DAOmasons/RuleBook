@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'en-US',
   title: 'Grant Ships Rule Book',
-  description: 'An Evolutionary Grants Game',
+  description: 'An Evolutionary Grants Framework',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/rocketgrad3.svg',
@@ -19,6 +19,10 @@ export default defineConfig({
       {
         text: 'About Grant Ships',
         link: '/about/about',
+      },
+      {
+        text: 'GG23',
+        link: '/about/gg23',
       },
       {
         text: 'How To Play',
@@ -54,6 +58,7 @@ export default defineConfig({
           { text: 'Team', link: '/misc/team' },
           { text: 'Grant Ships Links', link: '/misc/links' },
           { text: 'Hats Protocol', link: '/misc/hats' },
+          { text: 'Allo Protocol', link: '/misc/allo' },
         ],
       },
       {
@@ -66,7 +71,7 @@ export default defineConfig({
       },
       {
         text: 'History',
-        link: '/about/about',
+        link: '/history/overview',
         items: [
           {
             text: 'Pilot Funding Round',

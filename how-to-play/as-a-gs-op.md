@@ -2,40 +2,23 @@
 
 If you or your team have been selected to operate a Grant Ship, congratulations!
 
-![](/public/operator.png)
+<h3><img src="/grantship_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Ship Operators:</h3>
 
-<h3><img src="/public/grantship_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> Grant Ship Operators</h3>
-
-- Providing an application that includes an allocation strategy, mission and grantee submission guidelines.
-- Reviewing/Approving project applicants
-- Reviewing/Approving initial milestone layout for approved projects
-- Distributing funds by approving submitted project milestones
-- Creating onchain attestations for important updates or announcements
-- Encourage Grant Recipients to disclose progress on work completed
+- Apply to be a Ship Operator by describing their approach and qualifications.
+- Steward the funds entrusted to them by the community, if selected.
+- Participate in the end-of-round review process.
 
 ### How it Works
 
-> In the Grant Ships app, the <img src="/public/grantship_icon.svg" style="display: inline; vertical-align: middle;" alt="Grant Ship Icon" /> icon represents Grant Ship activity.
+The primary responsibility of a Grant Ship Operator is to be a good steward of the funds they are entrusted with.
 
-Your primary responsibility as a Grant Ship Operator is to be a good steward of the funds you are entrusted with.
+Each Ship Operator determines their unique approach to grant giving and distribute the funds through the provided interface.
 
-You will need to determine your unique approach to grant giving and distribute the funds through the Grant Ships dashboard.
+At the end of the funding round, Ship performance will be assessed by a community and/or judge vote. This vote will impact their the following round, rewarding high-performing Ships and potentially slashing underperforming Ships.
 
-At the end of the funding round, you'll have an opportunity to report on your progress and the community will vote to determine if you will receive additional funding in the following funding round, or be slashed relative to other Grant Ships.
+### Examples:
 
-If your performance is too poor, you may be jettisoned and another crew will take over your position!
+- In the Gitcoin Grants funding rounds, each Ship is a targeted matching funds round responsible for soliciting projects and donations.
+- During the Arbitrum pilot round, three Ship operators competed to give the best direct, milestone-based grants. The vote led to one ship's "crash and burn" and the other two ships receiving additional funds for the next round.
 
-### Get Involved
-
-[Apply to be a Grant Ship Operator](https://app.grantships.fun)
-
-<h3 style="margin-bottom: 20px;">Screenshots</h3>
-
-<div style="margin-bottom: 20px;">
-  <img src="/public/TestShipProjects.png" alt="Grant Ship Screenshot 1" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
-  <p style="text-align: center;">Grant Ship Operator Dashboard, showing project grants and completion status.</p>
-</div>
-<div style="margin-bottom: 20px;">
-  <img src="/public/ProjectUpdates.png" alt="Grant Ship Screenshot 2" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;">
-  <p style="text-align: center;">Grantee Dashboard, post project updates</p>
-</div>
+![](/operator.png)
