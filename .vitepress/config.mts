@@ -81,6 +81,10 @@ export default defineConfig({
             text: 'Pilot Vote',
             link: '/history/voting',
           },
+          {
+            text: 'Pilot Retrospective',
+            link: 'https://grantships.fun/pilotretro.pdf',
+          },
         ],
       },
     ],

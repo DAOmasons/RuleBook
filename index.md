@@ -15,18 +15,12 @@ hero:
     - theme: alt
       text: GG23
       link: /about/gg23.html
-    - theme: alt
-      text: Pilot App
-      link: https://app.grantships.fun
-    - theme: alt
-      text: Pilot Report
-      link: https://grantships.fun/pilotretro.pdf
 
 features:
   - title: Ships in Ship Shape
-    details: Each Grant Ship brings their own coordination, creativity, and decision-making to the grant giving process.
-  - title: Visibility
-    details: Transparent and onchain applications, approvals, distribution and feedback. Visibility creates accountability and improves performance.
+    details: Each Grant Ship brings their own unique style to the grant giving process.
+  - title: Feedback Loops
+    details: Ship performance is assessed by community votes and performance is rewarded in future rounds.
   - title: Community Participation
     details: The community can participate as voters, Ships, facilitators, and project owners.
 ---
