@@ -16,4 +16,5 @@ The following are the official links associcated with `Grant Ships.`
 - [Website](https://grantships.fun)
 - [Grant Ships X](https://twitter.com/grantships)
 - [DAO Masons X](https://twitter.com/daomasons)
+- [DAO Masons Website](https://daomasons.com)
 - [email](mailto:grantships@gmail.com) (advise against relying on this as primary means of comms)

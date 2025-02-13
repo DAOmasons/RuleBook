@@ -10,9 +10,8 @@ export default defineConfig({
     logo: '/rocketgrad3.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/misc/about' },
-      { text: 'How To Play', link: '/how-to-play/' },
-      { text: 'App', link: 'https://app.grantships.fun' },
+      { text: 'About', link: '/about/about' },
+      { text: 'GG23', link: 'https://gg23.grantships.com' },
     ],
 
     sidebar: [
