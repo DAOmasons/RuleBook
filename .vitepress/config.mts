@@ -82,7 +82,7 @@ export default defineConfig({
           },
           {
             text: 'Pilot Retrospective',
-            link: 'https://grantships.fun/pilotretro.pdf',
+            link: '/pilotretro.pdf',
           },
         ],
       },
