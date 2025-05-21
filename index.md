@@ -14,7 +14,7 @@ hero:
       link: /about/about.html
     - theme: alt
       text: GG23
-      link: /about/gg23.html
+      link: https://gg23.grantships.com
 
 features:
   - title: Ships in Ship Shape
